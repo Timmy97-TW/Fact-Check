@@ -72,5 +72,40 @@
     "en": "Still pending but annotated with what the search found: the 18-position alanine scan has a run tree but no summary table in the archive, and the restraint-derivation work (WHISCY, US-align, DisVis, the PEPR2 transfer) stayed in the compute workspace that no longer exists."
    }
   ]
+ },
+ {
+  "date": "2026-10-14",
+  "editor": "Timmy (wet lab raw files)",
+  "file": "records/2026-10-14-wetlab-pass.md",
+  "changes": [
+   {
+    "zh": "濕實驗原始檔核對（~/Downloads/Wetlab stuff：4 月至 10 月電子實驗記錄本、植物記錄本、各月膠片標註與圖表、protocol 與 SOP、四層選殖產物 SnapGene 檔、2026 primer list，共 122 個檔案全文檢索）：處理 901 筆未決事實中的 451 筆，190 筆更新，128 筆改為 confirmed，26 筆由 pending 改為 conflict，34 筆既有 conflict 補上原始數據實際內容。",
+    "en": "Wet lab raw-file check over ~/Downloads/Wetlab stuff (the electronic lab notebook April to October, the plant notebook, the per-gel label sheets and figure decks, the protocol and SOP folders, the four SnapGene cloning-product folders and the 2026 primer list; 122 files searched in full): 451 of the 901 unresolved facts worked through, 190 facts updated, 128 moved to confirmed, 26 moved from pending to conflict because the raw file contradicts the page, and 34 existing conflicts annotated with what the raw data shows."
+   },
+   {
+    "zh": "confirmed 的判準：原始檔本身寫出同一個數值、單位、日期與構築，並附上逐字引文與檔案路徑。190 筆引文中 180 筆經程式驗證為語料的精確子字串，其餘 10 筆為表格換行所致，逐一人工核對。只存在於照片中的數值（條帶數、哪些 lane 有帶）不予 confirmed。",
+    "en": "Rule used for confirmed: the raw file states the fact itself, the same value, unit, date and construct, and the fact carries a verbatim quote and the file path. 180 of the 190 quotes verify as exact substrings of the corpus; the other 10 are table rows the converter reflowed and were checked token by token. A value that exists only in a photograph, such as a band count or which lanes banded, was not confirmed."
+   },
+   {
+    "zh": "開放問題 37（純化標籤位置）有三個各自為真的答案，依構築族群而定：ACCD 與 LEA 產物的 6xHis 在 3' 端，兩個 AmilCP 載貨完全沒有標籤，BoPep4 變異體以 _1-23_NHis 建構為 N 端標籤。WM-159 維持 conflict 並逐一寫明，因為 Peptide Design 與 Molecular Dynamics 兩句話仍須修改。",
+    "en": "Open question 37, the purification tag position, has three answers that are each true of a different construct family: 6xHis at the 3' end in every annotated ACCD and LEA product, no tag at all on the two AmilCP cargoes, and an N-terminal tag on the BoPep4 variants built as _1-23_NHis. WM-159 stays conflict with the per-construct resolution written out, because two wiki sentences still need editing."
+   },
+   {
+    "zh": "WW-131（critical）改為 conflict：生物反應器時間序列實際上是兩天三張膠片（9/2 的 16/18/20 h 由 Chars，9/5 兩張為 20/22/24 h 與 40/42/44 h 由 Sophie C），共八個時間點，沒有 9/4，整個封存中也沒有 14 h 樣品。",
+    "en": "WW-131, a critical fact, moves to conflict: the reactor time course is three gels over two days, 2 September at 16/18/20 h by Chars and 5 September at 20/22/24 h and 40/42/44 h by Sophie C. Eight time points, nothing dated 4 September, and no 14 h sample exists anywhere in the archive."
+   },
+   {
+    "zh": "WH-119、WH-122、WH-128 維持 confirmed 但加註：電子實驗記錄本在 9/19 沒有任何 LPA 執行紀錄，9 月膠片資料夾中疑似的光照實驗日期為 9/29。日期若改，群組標題與 Hardware、LPA 時間軸都要跟著動。",
+    "en": "WH-119, WH-122 and WH-128 keep their confirmed status with a note added: the electronic lab notebook has no LPA run on 19 September, and the candidate optogenetic run in the September gel folder is dated 29 September. If the date changes, the group title and the Hardware and LPA timeline entries move with it."
+   },
+   {
+    "zh": "濕實驗無法確認的大宗缺檔：定序報告（可一次關閉七筆）、Agar/ 資料夾的根長與葉綠素工作簿（28 筆）、Hydroponic system/ 與 Soil planting/（11 筆）、以及所有硬體檔案（LED、PWM、光學、壓力、流量皆零命中）。",
+    "en": "The large gaps the wet lab folder cannot close: the sequencing reports, which would settle seven facts at once; the Agar folder's root-length and chlorophyll workbooks, 28 facts; the hydroponic and soil folders, 11 facts; and every hardware file, since LED, PWM, optics, pressure and flow return zero hits in the whole corpus."
+   },
+   {
+    "zh": "完整紀錄、問題清單與 wiki 修正清單：records/2026-10-14-wetlab-pass.md；九份分區報告與套用的 patch 在 records/2026-10-14-wetlab/。",
+    "en": "Full write-up, the morning ask list and the wiki edit list: records/2026-10-14-wetlab-pass.md. The nine per-area reports and the applied patches are in records/2026-10-14-wetlab/."
+   }
+  ]
  }
 ]

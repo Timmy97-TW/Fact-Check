@@ -1,0 +1,1522 @@
+[
+ {
+  "id": "WW-053",
+  "agent": "A1_cloning",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "811",
+  "new_value": "811"
+ },
+ {
+  "id": "WW-054",
+  "agent": "A1_cloning",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "1000",
+  "new_value": "1000"
+ },
+ {
+  "id": "WW-055",
+  "agent": "A1_cloning",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "1372",
+  "new_value": "1372"
+ },
+ {
+  "id": "WW-056",
+  "agent": "A1_cloning",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "1642",
+  "new_value": "1642"
+ },
+ {
+  "id": "WW-057",
+  "agent": "A1_cloning",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "937",
+  "new_value": "937"
+ },
+ {
+  "id": "WW-058",
+  "agent": "A1_cloning",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "1726",
+  "new_value": "1726"
+ },
+ {
+  "id": "WW-059",
+  "agent": "A1_cloning",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "412",
+  "new_value": "412"
+ },
+ {
+  "id": "WW-061",
+  "agent": "A1_cloning",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-067",
+  "agent": "A1_cloning",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-078",
+  "agent": "A1_cloning",
+  "from": "conflict",
+  "to": "confirmed",
+  "old_value": "1588",
+  "new_value": "1588"
+ },
+ {
+  "id": "WW-079",
+  "agent": "A1_cloning",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "7767",
+  "new_value": "7767"
+ },
+ {
+  "id": "WW-081",
+  "agent": "A1_cloning",
+  "from": "conflict",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": "1833"
+ },
+ {
+  "id": "WW-083",
+  "agent": "A1_cloning",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-010",
+  "agent": "A1_cloning",
+  "from": "pending",
+  "to": "conflict",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-052",
+  "agent": "A1_cloning",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-006",
+  "agent": "A1_cloning",
+  "from": "pending",
+  "to": "conflict",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-007",
+  "agent": "A1_cloning",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-013",
+  "agent": "A1_cloning",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-042",
+  "agent": "A1_cloning",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-075",
+  "agent": "A1_cloning",
+  "from": "pending",
+  "to": "conflict",
+  "old_value": "1667",
+  "new_value": "1667"
+ },
+ {
+  "id": "WW-100",
+  "agent": "A1_cloning",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-101",
+  "agent": "A1_cloning",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "785",
+  "new_value": "785"
+ },
+ {
+  "id": "WW-102",
+  "agent": "A1_cloning",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "536",
+  "new_value": "536"
+ },
+ {
+  "id": "WW-107",
+  "agent": "A1_cloning",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-121",
+  "agent": "A1_cloning",
+  "from": "conflict",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-122",
+  "agent": "A1_cloning",
+  "from": "conflict",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-123",
+  "agent": "A1_cloning",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-125",
+  "agent": "A1_cloning",
+  "from": "pending",
+  "to": "conflict",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-138",
+  "agent": "A1_cloning",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "375",
+  "new_value": "375"
+ },
+ {
+  "id": "WW-139",
+  "agent": "A1_cloning",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "632",
+  "new_value": "632"
+ },
+ {
+  "id": "WW-140",
+  "agent": "A1_cloning",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "661",
+  "new_value": "661"
+ },
+ {
+  "id": "WW-180",
+  "agent": "A1_cloning",
+  "from": "pending",
+  "to": "conflict",
+  "old_value": "13",
+  "new_value": "13"
+ },
+ {
+  "id": "WW-181",
+  "agent": "A1_cloning",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-182",
+  "agent": "A1_cloning",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-183",
+  "agent": "A1_cloning",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-184",
+  "agent": "A1_cloning",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-185",
+  "agent": "A1_cloning",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-186",
+  "agent": "A1_cloning",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "1549",
+  "new_value": "1549"
+ },
+ {
+  "id": "WW-200",
+  "agent": "A1_cloning",
+  "from": "conflict",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-008",
+  "agent": "A1_cloning",
+  "from": "pending",
+  "to": "conflict",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-201",
+  "agent": "A1_cloning",
+  "from": "pending",
+  "to": "conflict",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-209",
+  "agent": "A1_cloning",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-210",
+  "agent": "A1_cloning",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-038",
+  "agent": "A2_protein",
+  "from": "conflict",
+  "to": "conflict",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-039",
+  "agent": "A2_protein",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-040",
+  "agent": "A2_protein",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-086",
+  "agent": "A2_protein",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-093",
+  "agent": "A2_protein",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-094",
+  "agent": "A2_protein",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-095",
+  "agent": "A2_protein",
+  "from": "pending",
+  "to": "conflict",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-117",
+  "agent": "A2_protein",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-119",
+  "agent": "A2_protein",
+  "from": "pending",
+  "to": "conflict",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-131",
+  "agent": "A2_protein",
+  "from": "pending",
+  "to": "conflict",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WH-054",
+  "agent": "A2_protein",
+  "from": "conflict",
+  "to": "conflict",
+  "old_value": "0",
+  "new_value": "0"
+ },
+ {
+  "id": "WH-055",
+  "agent": "A2_protein",
+  "from": "conflict",
+  "to": "conflict",
+  "old_value": "2",
+  "new_value": "2"
+ },
+ {
+  "id": "WW-143",
+  "agent": "A3_materials",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "20",
+  "new_value": "20"
+ },
+ {
+  "id": "WW-144",
+  "agent": "A3_materials",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-145",
+  "agent": "A3_materials",
+  "from": "pending",
+  "to": "conflict",
+  "old_value": "30",
+  "new_value": "30"
+ },
+ {
+  "id": "WW-146",
+  "agent": "A3_materials",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "25",
+  "new_value": "25"
+ },
+ {
+  "id": "WW-147",
+  "agent": "A3_materials",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "20",
+  "new_value": "20"
+ },
+ {
+  "id": "WW-148",
+  "agent": "A3_materials",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "500",
+  "new_value": "500"
+ },
+ {
+  "id": "WW-149",
+  "agent": "A3_materials",
+  "from": "pending",
+  "to": "conflict",
+  "old_value": "100",
+  "new_value": "100"
+ },
+ {
+  "id": "WW-150",
+  "agent": "A3_materials",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-151",
+  "agent": "A3_materials",
+  "from": "pending",
+  "to": "conflict",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-152",
+  "agent": "A3_materials",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "30 to 50",
+  "new_value": "30 to 50"
+ },
+ {
+  "id": "WW-153",
+  "agent": "A3_materials",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "200",
+  "new_value": "200"
+ },
+ {
+  "id": "WW-154",
+  "agent": "A3_materials",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "0.05",
+  "new_value": "0.05"
+ },
+ {
+  "id": "WW-155",
+  "agent": "A3_materials",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "150",
+  "new_value": "150"
+ },
+ {
+  "id": "WW-156",
+  "agent": "A3_materials",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "10",
+  "new_value": "10"
+ },
+ {
+  "id": "WW-157",
+  "agent": "A3_materials",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-158",
+  "agent": "A3_materials",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "50",
+  "new_value": "50"
+ },
+ {
+  "id": "WW-159",
+  "agent": "A3_materials",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "595",
+  "new_value": "595"
+ },
+ {
+  "id": "WW-212",
+  "agent": "A3_materials",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-166",
+  "agent": "A3_materials",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-167",
+  "agent": "A3_materials",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "1",
+  "new_value": "1"
+ },
+ {
+  "id": "WW-169",
+  "agent": "A3_materials",
+  "from": "pending",
+  "to": "conflict",
+  "old_value": "250",
+  "new_value": "250"
+ },
+ {
+  "id": "WW-170",
+  "agent": "A3_materials",
+  "from": "pending",
+  "to": "conflict",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-171",
+  "agent": "A3_materials",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "16",
+  "new_value": "16"
+ },
+ {
+  "id": "WW-172",
+  "agent": "A3_materials",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "45",
+  "new_value": "45"
+ },
+ {
+  "id": "WW-173",
+  "agent": "A3_materials",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "127",
+  "new_value": "127"
+ },
+ {
+  "id": "WW-174",
+  "agent": "A3_materials",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-175",
+  "agent": "A3_materials",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "18",
+  "new_value": "18"
+ },
+ {
+  "id": "WW-176",
+  "agent": "A3_materials",
+  "from": "pending",
+  "to": "conflict",
+  "old_value": "3",
+  "new_value": "3"
+ },
+ {
+  "id": "WW-177",
+  "agent": "A3_materials",
+  "from": "pending",
+  "to": "conflict",
+  "old_value": "48",
+  "new_value": "48"
+ },
+ {
+  "id": "WW-178",
+  "agent": "A3_materials",
+  "from": "conflict",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-179",
+  "agent": "A3_materials",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-215",
+  "agent": "A3_materials",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "1:500",
+  "new_value": "1:500"
+ },
+ {
+  "id": "WW-203",
+  "agent": "A3_materials",
+  "from": "conflict",
+  "to": "conflict",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-204",
+  "agent": "A3_materials",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-205",
+  "agent": "A3_materials",
+  "from": "conflict",
+  "to": "conflict",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-206",
+  "agent": "A3_materials",
+  "from": "pending",
+  "to": "conflict",
+  "old_value": "0.85 to 0.95",
+  "new_value": "0.85 to 0.95"
+ },
+ {
+  "id": "WW-207",
+  "agent": "A3_materials",
+  "from": "pending",
+  "to": "conflict",
+  "old_value": "2.2",
+  "new_value": "2.2"
+ },
+ {
+  "id": "WW-208",
+  "agent": "A3_materials",
+  "from": "pending",
+  "to": "conflict",
+  "old_value": "25",
+  "new_value": "25"
+ },
+ {
+  "id": "PA-005",
+  "agent": "A4_agar",
+  "from": "conflict",
+  "to": "confirmed",
+  "old_value": "0.6",
+  "new_value": "0.6"
+ },
+ {
+  "id": "PA-010",
+  "agent": "A4_agar",
+  "from": "conflict",
+  "to": "confirmed",
+  "old_value": "0.8",
+  "new_value": "0.8"
+ },
+ {
+  "id": "PA-013",
+  "agent": "A4_agar",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "127",
+  "new_value": "127"
+ },
+ {
+  "id": "PA-016",
+  "agent": "A4_agar",
+  "from": "conflict",
+  "to": "confirmed",
+  "old_value": "100",
+  "new_value": "100"
+ },
+ {
+  "id": "PA-018",
+  "agent": "A4_agar",
+  "from": "conflict",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "PA-019",
+  "agent": "A4_agar",
+  "from": "conflict",
+  "to": "confirmed",
+  "old_value": "1667",
+  "new_value": "1667"
+ },
+ {
+  "id": "PA-022",
+  "agent": "A4_agar",
+  "from": "conflict",
+  "to": "confirmed",
+  "old_value": "9",
+  "new_value": "9"
+ },
+ {
+  "id": "PA-023",
+  "agent": "A4_agar",
+  "from": "conflict",
+  "to": "confirmed",
+  "old_value": "25 / 40",
+  "new_value": "25 / 40"
+ },
+ {
+  "id": "PA-026",
+  "agent": "A4_agar",
+  "from": "conflict",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "PA-075",
+  "agent": "A4_agar",
+  "from": "conflict",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "PA-124",
+  "agent": "A4_agar",
+  "from": "conflict",
+  "to": "confirmed",
+  "old_value": "6",
+  "new_value": "6"
+ },
+ {
+  "id": "PA-011",
+  "agent": "A4_agar",
+  "from": "conflict",
+  "to": "conflict",
+  "old_value": "12 x 12",
+  "new_value": "12 x 12"
+ },
+ {
+  "id": "PA-014",
+  "agent": "A4_agar",
+  "from": "conflict",
+  "to": "conflict",
+  "old_value": "2.192",
+  "new_value": "2.192"
+ },
+ {
+  "id": "PA-024",
+  "agent": "A4_agar",
+  "from": "conflict",
+  "to": "conflict",
+  "old_value": "27 / 30",
+  "new_value": "27 / 30"
+ },
+ {
+  "id": "PA-027",
+  "agent": "A4_agar",
+  "from": "conflict",
+  "to": "conflict",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "PA-044",
+  "agent": "A4_agar",
+  "from": "conflict",
+  "to": "conflict",
+  "old_value": "10",
+  "new_value": "10"
+ },
+ {
+  "id": "PA-052",
+  "agent": "A4_agar",
+  "from": "conflict",
+  "to": "conflict",
+  "old_value": "12",
+  "new_value": "12"
+ },
+ {
+  "id": "PA-053",
+  "agent": "A4_agar",
+  "from": "conflict",
+  "to": "conflict",
+  "old_value": "2",
+  "new_value": "2"
+ },
+ {
+  "id": "PA-074",
+  "agent": "A4_agar",
+  "from": "conflict",
+  "to": "conflict",
+  "old_value": "18",
+  "new_value": "18"
+ },
+ {
+  "id": "PA-093",
+  "agent": "A4_agar",
+  "from": "conflict",
+  "to": "conflict",
+  "old_value": "2026-07-20",
+  "new_value": "2026-07-20 sheet date"
+ },
+ {
+  "id": "PA-090",
+  "agent": "A4_agar",
+  "from": "conflict",
+  "to": "conflict",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "PA-135",
+  "agent": "A4_agar",
+  "from": "conflict",
+  "to": "conflict",
+  "old_value": "0.0298",
+  "new_value": "0.0298"
+ },
+ {
+  "id": "PA-002",
+  "agent": "A4_agar",
+  "from": "conflict",
+  "to": "conflict",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-027",
+  "agent": "A5_agar2",
+  "from": "pending",
+  "to": "conflict",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-088",
+  "agent": "A5_agar2",
+  "from": "conflict",
+  "to": "conflict",
+  "old_value": "7",
+  "new_value": "7"
+ },
+ {
+  "id": "PA-151",
+  "agent": "A5_agar2",
+  "from": "conflict",
+  "to": "confirmed",
+  "old_value": "0.1537",
+  "new_value": "0.1537"
+ },
+ {
+  "id": "PA-152",
+  "agent": "A5_agar2",
+  "from": "conflict",
+  "to": "conflict",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "PA-155",
+  "agent": "A5_agar2",
+  "from": "conflict",
+  "to": "conflict",
+  "old_value": "0.2278",
+  "new_value": "0.2278"
+ },
+ {
+  "id": "PA-156",
+  "agent": "A5_agar2",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "PA-166",
+  "agent": "A5_agar2",
+  "from": "conflict",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": "4 days stratification at 4 C then 4 days in the growth chamber before pre-treatment"
+ },
+ {
+  "id": "PA-173",
+  "agent": "A5_agar2",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "PA-174",
+  "agent": "A5_agar2",
+  "from": "conflict",
+  "to": "conflict",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "PA-181",
+  "agent": "A5_agar2",
+  "from": "conflict",
+  "to": "conflict",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "PS-002",
+  "agent": "A6_hydro_soil",
+  "from": "conflict",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "PS-004",
+  "agent": "A6_hydro_soil",
+  "from": "conflict",
+  "to": "confirmed",
+  "old_value": "1/10",
+  "new_value": "1/10 bleach, 20 min"
+ },
+ {
+  "id": "PS-030",
+  "agent": "A6_hydro_soil",
+  "from": "conflict",
+  "to": "confirmed",
+  "old_value": "150",
+  "new_value": "150"
+ },
+ {
+  "id": "PS-031",
+  "agent": "A6_hydro_soil",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": "1 pot (3 plants) per treatment group; 3 pots for the 0 mM control"
+ },
+ {
+  "id": "PS-033",
+  "agent": "A6_hydro_soil",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": "3 foliar sprays of ACCD"
+ },
+ {
+  "id": "PS-035",
+  "agent": "A6_hydro_soil",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "PS-037",
+  "agent": "A6_hydro_soil",
+  "from": "conflict",
+  "to": "conflict",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "PS-015",
+  "agent": "A6_hydro_soil",
+  "from": "conflict",
+  "to": "conflict",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "PS-021",
+  "agent": "A6_hydro_soil",
+  "from": "conflict",
+  "to": "confirmed",
+  "old_value": "6",
+  "new_value": "6"
+ },
+ {
+  "id": "PS-068",
+  "agent": "A6_hydro_soil",
+  "from": "conflict",
+  "to": "confirmed",
+  "old_value": "1 / 0.8",
+  "new_value": "1 / 0.8 / 0.6"
+ },
+ {
+  "id": "PS-069",
+  "agent": "A6_hydro_soil",
+  "from": "conflict",
+  "to": "confirmed",
+  "old_value": "2.2",
+  "new_value": "2.2"
+ },
+ {
+  "id": "PS-070",
+  "agent": "A6_hydro_soil",
+  "from": "conflict",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": "1/2 MS to 30 July, 0.1x MS from 12 August"
+ },
+ {
+  "id": "PS-071",
+  "agent": "A6_hydro_soil",
+  "from": "conflict",
+  "to": "confirmed",
+  "old_value": "4",
+  "new_value": "4 days at 4 °C"
+ },
+ {
+  "id": "PS-073",
+  "agent": "A6_hydro_soil",
+  "from": "conflict",
+  "to": "confirmed",
+  "old_value": "3",
+  "new_value": "3"
+ },
+ {
+  "id": "PS-077",
+  "agent": "A6_hydro_soil",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": "25 and 28 July, three days apart"
+ },
+ {
+  "id": "PS-081",
+  "agent": "A6_hydro_soil",
+  "from": "conflict",
+  "to": "conflict",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "PS-083",
+  "agent": "A6_hydro_soil",
+  "from": "conflict",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": "CH biotech protectant (CH Bio peptide, Zheng Han / Zhenhan)"
+ },
+ {
+  "id": "PS-085",
+  "agent": "A6_hydro_soil",
+  "from": "conflict",
+  "to": "conflict",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "PS-107",
+  "agent": "A6_hydro_soil",
+  "from": "conflict",
+  "to": "confirmed",
+  "old_value": "12",
+  "new_value": "12"
+ },
+ {
+  "id": "PS-112",
+  "agent": "A6_hydro_soil",
+  "from": "conflict",
+  "to": "confirmed",
+  "old_value": "35",
+  "new_value": "35"
+ },
+ {
+  "id": "PS-114",
+  "agent": "A6_hydro_soil",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "0.46",
+  "new_value": "0.46"
+ },
+ {
+  "id": "PS-127",
+  "agent": "A6_hydro_soil",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-219",
+  "agent": "A7_terms",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-225",
+  "agent": "A7_terms",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-227",
+  "agent": "A7_terms",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-229",
+  "agent": "A7_terms",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-239",
+  "agent": "A7_terms",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-240",
+  "agent": "A7_terms",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-241",
+  "agent": "A7_terms",
+  "from": "conflict",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": "incubator setting 37 ℃, measured 33 ℃ (15 Aug); setting 50 ℃, measured 35 ℃ (20 Aug)"
+ },
+ {
+  "id": "WW-245",
+  "agent": "A7_terms",
+  "from": "pending",
+  "to": "conflict",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-246",
+  "agent": "A7_terms",
+  "from": "pending",
+  "to": "conflict",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-252",
+  "agent": "A7_terms",
+  "from": "conflict",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": "ACCD"
+ },
+ {
+  "id": "WW-253",
+  "agent": "A7_terms",
+  "from": "conflict",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": "Bopep4"
+ },
+ {
+  "id": "WW-254",
+  "agent": "A7_terms",
+  "from": "conflict",
+  "to": "conflict",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-255",
+  "agent": "A7_terms",
+  "from": "conflict",
+  "to": "conflict",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-256",
+  "agent": "A7_terms",
+  "from": "conflict",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": "PcpcG2-veg"
+ },
+ {
+  "id": "WW-257",
+  "agent": "A7_terms",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-258",
+  "agent": "A7_terms",
+  "from": "conflict",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-259",
+  "agent": "A7_terms",
+  "from": "conflict",
+  "to": "conflict",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-260",
+  "agent": "A7_terms",
+  "from": "conflict",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-261",
+  "agent": "A7_terms",
+  "from": "conflict",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": "Csn::ACCD"
+ },
+ {
+  "id": "WH-292",
+  "agent": "A7_terms",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": "inline photometer"
+ },
+ {
+  "id": "WH-293",
+  "agent": "A7_terms",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": "BioDrop"
+ },
+ {
+  "id": "WH-294",
+  "agent": "A7_terms",
+  "from": "conflict",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": "WB800"
+ },
+ {
+  "id": "WH-299",
+  "agent": "A7_terms",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": "Chars Hsieh"
+ },
+ {
+  "id": "WW-046",
+  "agent": "A8_reactor",
+  "from": "conflict",
+  "to": "confirmed",
+  "old_value": "0.304",
+  "new_value": "0.304"
+ },
+ {
+  "id": "WH-008",
+  "agent": "A8_reactor",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": "0.304"
+ },
+ {
+  "id": "WH-005",
+  "agent": "A8_reactor",
+  "from": "conflict",
+  "to": "confirmed",
+  "old_value": "27",
+  "new_value": "27"
+ },
+ {
+  "id": "WH-001",
+  "agent": "A8_reactor",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WH-015",
+  "agent": "A8_reactor",
+  "from": "conflict",
+  "to": "confirmed",
+  "old_value": "7.1",
+  "new_value": "7.1"
+ },
+ {
+  "id": "WH-012",
+  "agent": "A8_reactor",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-051",
+  "agent": "A8_reactor",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WH-049",
+  "agent": "A8_reactor",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WH-045",
+  "agent": "A8_reactor",
+  "from": "conflict",
+  "to": "conflict",
+  "old_value": "300",
+  "new_value": "300"
+ },
+ {
+  "id": "WH-235",
+  "agent": "A8_reactor",
+  "from": "pending",
+  "to": "conflict",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WH-121",
+  "agent": "A9_lpa",
+  "from": "conflict",
+  "to": "confirmed",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WH-202",
+  "agent": "A9_lpa",
+  "from": "pending",
+  "to": "confirmed",
+  "old_value": "24",
+  "new_value": "24"
+ },
+ {
+  "id": "WH-123",
+  "agent": "A9_lpa",
+  "from": "pending",
+  "to": "conflict",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WH-124",
+  "agent": "A9_lpa",
+  "from": "conflict",
+  "to": "conflict",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WH-127",
+  "agent": "A9_lpa",
+  "from": "conflict",
+  "to": "conflict",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WH-132",
+  "agent": "A9_lpa",
+  "from": "pending",
+  "to": "conflict",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WH-120",
+  "agent": "A9_lpa",
+  "from": "conflict",
+  "to": "conflict",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WW-025",
+  "agent": "A9_lpa",
+  "from": "conflict",
+  "to": "conflict",
+  "old_value": "",
+  "new_value": ""
+ },
+ {
+  "id": "WM-159",
+  "agent": "Z_overrides",
+  "from": "confirmed",
+  "to": "conflict",
+  "old_value": "",
+  "new_value": ""
+ }
+]
