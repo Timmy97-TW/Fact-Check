@@ -37,5 +37,40 @@
     "en": "Full write-up and milestone ledger: records/2026-10-14-drylab-consolidation.md."
    }
   ]
+ },
+ {
+  "date": "2026-10-14",
+  "editor": "Timmy (dry lab archive)",
+  "file": "records/2026-10-14-drylab-consolidation.md",
+  "changes": [
+   {
+    "zh": "第二輪（對接、MD、胜肽設計稽核）：36 筆事實更新，20 筆改為 confirmed，2 筆改為 conflict。",
+    "en": "Second pass over the docking, MD and peptide-design audit facts: 36 facts updated, 20 moved to confirmed, 2 moved to conflict."
+   },
+   {
+    "zh": "WM-159（純化標籤，critical）敲定為 confirmed：8/23 零件清單把 6xHis 列為 N 端並註明「never fuse His to Asn23」，六個 cassette 長度全部對上。Molecular Dynamics 頁說「移到 C 端」那一句，以及 GRAFT Methodology 的 C 端 6xHis（只適用六七月設計），需要改。",
+    "en": "WM-159, the purification tag and a critical fact, is settled as confirmed: the 23 August parts list puts the 6xHis at the N terminus with the note 'never fuse His to Asn23', and all six cassette lengths reproduce. The Molecular Dynamics sentence about moving the tag to the C terminus, and GRAFT Methodology's C-terminal 6xHis which applies only to the June and July designs, both need editing."
+   },
+   {
+    "zh": "WM-105 敲定：實際跑的是 HADDOCK 2.5（haddock2.5-2026-07，121 次 production run，本機，Python 3.12）；頁面的 2.4 是協定論文的版本。value 改為 2.5。",
+    "en": "WM-105 settled: what ran is HADDOCK 2.5 (haddock2.5-2026-07, 121 production runs, local, Python 3.12); the 2.4 on the page is the protocol paper's version. The value is now 2.5."
+   },
+   {
+    "zh": "WM-138 改為 conflict：Lys7–Asp129 的 98.7% / 2.81 Å 屬於 7-23 軌跡，野生型在同一受體殘基上只有 44.2%，頁面的歸屬相反。",
+    "en": "WM-138 moved to conflict: the 98.7% at 2.81 A for Lys7-Asp129 belongs to the 7-23 trajectory, while wild type sits at 44.2% on the same receptor residue, so the page has the attribution backwards."
+   },
+   {
+    "zh": "WM-162 改為 conflict：「111 / 2 free grid points」其實是 flood fill 的 seed 數，自由格點是 694 與 1,055；距離與殘基數都正確。",
+    "en": "WM-162 moved to conflict: the 111 and 2 'free grid points' are the flood fill's seed counts, while the free points are 694 and 1,055; the distances and residue counts are correct."
+   },
+   {
+    "zh": "重算確認：長度＋淨電荷對 HADDOCK 分數的 R² = 0.929（PEPR1），每殘基 −7.44；截短階梯 34 個複合體、每 1,000 Å² −72 到 −86；串聯重複每殘基埋藏面積 127 → 32 Å²；9-23 質量 1,612.73 Da 與胰蛋白酶切位 3 → 1。",
+    "en": "Recomputed and confirmed: R2 = 0.929 for the HADDOCK score on length plus net charge (PEPR1) at -7.44 per residue; the 34-complex truncation ladder between -72 and -86 per 1,000 A2; the tandem sweep's buried area per residue from 127 to 32 A2; and 9-23's mass of 1,612.73 Da with trypsin sites going from three to one."
+   },
+   {
+    "zh": "仍 pending 但已註明搜尋結果：18 位點 alanine scan 的彙總表不在封存（只有執行樹），限制條件推導（WHISCY、US-align、DisVis、PEPR2 轉移）留在已不存在的運算工作區。",
+    "en": "Still pending but annotated with what the search found: the 18-position alanine scan has a run tree but no summary table in the archive, and the restraint-derivation work (WHISCY, US-align, DisVis, the PEPR2 transfer) stayed in the compute workspace that no longer exists."
+   }
+  ]
  }
 ]

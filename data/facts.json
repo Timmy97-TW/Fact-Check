@@ -1,6 +1,6 @@
 {
  "meta": {
-  "version": "2026-10-14.1",
+  "version": "2026-10-14.2",
   "freeze": "2026-10-21T23:00:00+08:00",
   "wikiBase": "https://timmy97-tw.github.io/releaf-wiki/"
  },
@@ -29252,11 +29252,17 @@
    "date": "",
    "status": "pending",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕14 Oct 核對：封存裡有這次掃描的執行樹（00_Docking_Analysis/01_HADDOCK_Peptide_Receptor/18_PointMutation_Panel，含 build_panel.py、panel_manifest.tsv 與每個複合體的資料夾），但沒有彙總結果表，所以 HADDOCK 差值（+150.4、+32.6、−1.3、−2.9、+9.5）與骨架位移（1.21、1.42、1.62 Å）都無法核對。只要把那張彙總表丟進封存，這幾筆可以一次確認。",
+    "en": "[14 Oct dry lab archive check] Checked 14 Oct: the archive holds this scan's run tree (00_Docking_Analysis/01_HADDOCK_Peptide_Receptor/18_PointMutation_Panel, with build_panel.py, panel_manifest.tsv and a folder per complex) but no summary results table, so none of the HADDOCK deltas (+150.4, +32.6, -1.3, -2.9, +9.5) or the backbone shifts (1.21, 1.42, 1.62 A) could be checked. Dropping that summary table into the archive would confirm all of these at once."
    },
    "ask": "",
-   "source": [],
+   "source": [
+    {
+     "label": "point mutation panel run tree",
+     "path": "2026 iGEM Project Plant Stress/00_Deliverable_Reports/00_Docking_Analysis/01_HADDOCK_Peptide_Receptor/18_PointMutation_Panel",
+     "where": "analysis/ and complexes/"
+    }
+   ],
    "wiki": [
     {
      "page": "protein-design/sprints/index.html",
@@ -29302,11 +29308,17 @@
    "date": "",
    "status": "pending",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕14 Oct 核對：封存裡有這次掃描的執行樹（00_Docking_Analysis/01_HADDOCK_Peptide_Receptor/18_PointMutation_Panel，含 build_panel.py、panel_manifest.tsv 與每個複合體的資料夾），但沒有彙總結果表，所以 HADDOCK 差值（+150.4、+32.6、−1.3、−2.9、+9.5）與骨架位移（1.21、1.42、1.62 Å）都無法核對。只要把那張彙總表丟進封存，這幾筆可以一次確認。",
+    "en": "[14 Oct dry lab archive check] Checked 14 Oct: the archive holds this scan's run tree (00_Docking_Analysis/01_HADDOCK_Peptide_Receptor/18_PointMutation_Panel, with build_panel.py, panel_manifest.tsv and a folder per complex) but no summary results table, so none of the HADDOCK deltas (+150.4, +32.6, -1.3, -2.9, +9.5) or the backbone shifts (1.21, 1.42, 1.62 A) could be checked. Dropping that summary table into the archive would confirm all of these at once."
    },
    "ask": "",
-   "source": [],
+   "source": [
+    {
+     "label": "point mutation panel run tree",
+     "path": "2026 iGEM Project Plant Stress/00_Deliverable_Reports/00_Docking_Analysis/01_HADDOCK_Peptide_Receptor/18_PointMutation_Panel",
+     "where": "analysis/ and complexes/"
+    }
+   ],
    "wiki": [
     {
      "page": "protein-design/sprints/index.html",
@@ -29339,11 +29351,17 @@
    "date": "",
    "status": "pending",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕14 Oct 核對：封存裡有這次掃描的執行樹（00_Docking_Analysis/01_HADDOCK_Peptide_Receptor/18_PointMutation_Panel，含 build_panel.py、panel_manifest.tsv 與每個複合體的資料夾），但沒有彙總結果表，所以 HADDOCK 差值（+150.4、+32.6、−1.3、−2.9、+9.5）與骨架位移（1.21、1.42、1.62 Å）都無法核對。只要把那張彙總表丟進封存，這幾筆可以一次確認。",
+    "en": "[14 Oct dry lab archive check] Checked 14 Oct: the archive holds this scan's run tree (00_Docking_Analysis/01_HADDOCK_Peptide_Receptor/18_PointMutation_Panel, with build_panel.py, panel_manifest.tsv and a folder per complex) but no summary results table, so none of the HADDOCK deltas (+150.4, +32.6, -1.3, -2.9, +9.5) or the backbone shifts (1.21, 1.42, 1.62 A) could be checked. Dropping that summary table into the archive would confirm all of these at once."
    },
    "ask": "",
-   "source": [],
+   "source": [
+    {
+     "label": "point mutation panel run tree",
+     "path": "2026 iGEM Project Plant Stress/00_Deliverable_Reports/00_Docking_Analysis/01_HADDOCK_Peptide_Receptor/18_PointMutation_Panel",
+     "where": "analysis/ and complexes/"
+    }
+   ],
    "wiki": [
     {
      "page": "protein-design/sprints/index.html",
@@ -29376,11 +29394,17 @@
    "date": "",
    "status": "pending",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕14 Oct 核對：封存裡有這次掃描的執行樹（00_Docking_Analysis/01_HADDOCK_Peptide_Receptor/18_PointMutation_Panel，含 build_panel.py、panel_manifest.tsv 與每個複合體的資料夾），但沒有彙總結果表，所以 HADDOCK 差值（+150.4、+32.6、−1.3、−2.9、+9.5）與骨架位移（1.21、1.42、1.62 Å）都無法核對。只要把那張彙總表丟進封存，這幾筆可以一次確認。",
+    "en": "[14 Oct dry lab archive check] Checked 14 Oct: the archive holds this scan's run tree (00_Docking_Analysis/01_HADDOCK_Peptide_Receptor/18_PointMutation_Panel, with build_panel.py, panel_manifest.tsv and a folder per complex) but no summary results table, so none of the HADDOCK deltas (+150.4, +32.6, -1.3, -2.9, +9.5) or the backbone shifts (1.21, 1.42, 1.62 A) could be checked. Dropping that summary table into the archive would confirm all of these at once."
    },
    "ask": "",
-   "source": [],
+   "source": [
+    {
+     "label": "point mutation panel run tree",
+     "path": "2026 iGEM Project Plant Stress/00_Deliverable_Reports/00_Docking_Analysis/01_HADDOCK_Peptide_Receptor/18_PointMutation_Panel",
+     "where": "analysis/ and complexes/"
+    }
+   ],
    "wiki": [
     {
      "page": "protein-design/sprints/index.html",
@@ -29413,11 +29437,17 @@
    "date": "",
    "status": "pending",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕14 Oct 核對：封存裡有這次掃描的執行樹（00_Docking_Analysis/01_HADDOCK_Peptide_Receptor/18_PointMutation_Panel，含 build_panel.py、panel_manifest.tsv 與每個複合體的資料夾），但沒有彙總結果表，所以 HADDOCK 差值（+150.4、+32.6、−1.3、−2.9、+9.5）與骨架位移（1.21、1.42、1.62 Å）都無法核對。只要把那張彙總表丟進封存，這幾筆可以一次確認。",
+    "en": "[14 Oct dry lab archive check] Checked 14 Oct: the archive holds this scan's run tree (00_Docking_Analysis/01_HADDOCK_Peptide_Receptor/18_PointMutation_Panel, with build_panel.py, panel_manifest.tsv and a folder per complex) but no summary results table, so none of the HADDOCK deltas (+150.4, +32.6, -1.3, -2.9, +9.5) or the backbone shifts (1.21, 1.42, 1.62 A) could be checked. Dropping that summary table into the archive would confirm all of these at once."
    },
    "ask": "",
-   "source": [],
+   "source": [
+    {
+     "label": "point mutation panel run tree",
+     "path": "2026 iGEM Project Plant Stress/00_Deliverable_Reports/00_Docking_Analysis/01_HADDOCK_Peptide_Receptor/18_PointMutation_Panel",
+     "where": "analysis/ and complexes/"
+    }
+   ],
    "wiki": [
     {
      "page": "protein-design/sprints/index.html",
@@ -29448,13 +29478,24 @@
    "value": "0.89",
    "unit": "ipTM",
    "date": "",
-   "status": "pending",
+   "status": "confirmed",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕對上 AF3_confidence_matrix.csv 與 two_method_matrix.csv：PEPR1 的 ipTM d1-2 0.88、d1-3 0.89，對 K18R 0.82、K8Q 0.83；全套最低的介面 PAE 是 d1-3 的 1.62 Å；HADDOCK 分別為 −207.0 與 −201.4，與頁面的「−207 與 −201」一致。頁面另外說位置 18 在切短後維持 2.77 與 2.85 Å 的接觸，這兩個距離不在封存的兩個矩陣裡，未核對。",
+    "en": "[14 Oct dry lab archive check] Matches AF3_confidence_matrix.csv and two_method_matrix.csv: on PEPR1 the ipTM is 0.88 for d1-2 and 0.89 for d1-3 against 0.82 for K18R and 0.83 for K8Q; the lowest interface PAE in the set is d1-3's 1.62 A; and HADDOCK gives -207.0 and -201.4, the page's -207 and -201. The page also says position 18 keeps its partner at 2.77 and 2.85 A through the cut; those two distances are not in either archived matrix and were not checked."
    },
    "ask": "",
-   "source": [],
+   "source": [
+    {
+     "label": "AF3 confidence matrix",
+     "path": "2026 iGEM Project Plant Stress/00_Deliverable_Reports/00_Docking_Analysis/01_HADDOCK_Peptide_Receptor/08_Top4_Docking/AF3_confidence_matrix.csv",
+     "where": ""
+    },
+    {
+     "label": "two-method matrix",
+     "path": "2026 iGEM Project Plant Stress/00_Deliverable_Reports/00_Docking_Analysis/01_HADDOCK_Peptide_Receptor/09_HADDOCK_confirmation/two_method_matrix.csv",
+     "where": ""
+    }
+   ],
    "wiki": [
     {
      "page": "protein-design/sprints/index.html",
@@ -29464,8 +29505,8 @@
    ],
    "images": [],
    "critical": false,
-   "confirmed_by": "",
-   "confirmed_on": ""
+   "confirmed_by": "Timmy (dry lab archive)",
+   "confirmed_on": "2026-10-14"
   },
   {
    "id": "WM-096",
@@ -29532,13 +29573,24 @@
    "value": "1612.73",
    "unit": "Da",
    "date": "",
-   "status": "pending",
+   "status": "confirmed",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕質量與切位都重算無誤：RPREPHSSGKPGGHN 的平均分子量為 1,612.73 Da，GILIGSKKRPREPHSSGKPGGHN 為 2,409.74 Da，相差 33.1%。淨電荷在矩陣裡是 9-23 為 2、1-23 為 4。胰蛋白酶型切位：全長在 K7、K8、R11 有三個（R9–P10 與 K18–P19 被脯胺酸阻斷），9-23 只剩 R11 一個，與頁面一致。",
+    "en": "[14 Oct dry lab archive check] Mass and cut sites both recompute: the average molecular weight of RPREPHSSGKPGGHN is 1,612.73 Da against 2,409.74 Da for GILIGSKKRPREPHSSGKPGGHN, a 33.1% reduction. The matrix lists net charge 2 for 9-23 and 4 for 1-23. Trypsin-type sites: full length has three, at K7, K8 and R11, since R9-P10 and K18-P19 are blocked by proline, and 9-23 has one, at R11, exactly as the page says."
    },
    "ask": "",
-   "source": [],
+   "source": [
+    {
+     "label": "masses and cut sites recomputed 14 Oct",
+     "path": "records/2026-10-14-drylab-consolidation.md",
+     "where": "section 5"
+    },
+    {
+     "label": "net charge per rung",
+     "path": "2026 iGEM Project Plant Stress/00_Deliverable_Reports/00_Docking_Analysis/01_HADDOCK_Peptide_Receptor/11_Truncation_Series/MASTER_MATRIX_34complexes.csv",
+     "where": "netcharge"
+    }
+   ],
    "wiki": [
     {
      "page": "protein-design/sprints/index.html",
@@ -29548,8 +29600,8 @@
    ],
    "images": [],
    "critical": true,
-   "confirmed_by": "",
-   "confirmed_on": ""
+   "confirmed_by": "Timmy (dry lab archive)",
+   "confirmed_on": "2026-10-14"
   },
   {
    "id": "WM-098",
@@ -29657,13 +29709,24 @@
    "value": "127-32",
    "unit": "A2 per residue",
    "date": "",
-   "status": "pending",
+   "status": "confirmed",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕對上 repeat_metrics.csv：PEPR1 上 n = 1 到 8 的每殘基埋藏面積從 127.3 單調下降到 31.7 Å²，接觸受體的拷貝數在 n ≥ 3 之後固定在 3。",
+    "en": "[14 Oct dry lab archive check] Matches repeat_metrics.csv: on PEPR1 the buried area per residue falls monotonically from 127.3 to 31.7 A2 across n = 1 to 8, and the number of copies contacting the receptor saturates at 3 from n = 3 onwards."
    },
    "ask": "",
-   "source": [],
+   "source": [
+    {
+     "label": "tandem repeat sweep",
+     "path": "2026 iGEM Project Plant Stress/00_Deliverable_Reports/00_Docking_Analysis/01_HADDOCK_Peptide_Receptor/12_Iterative_Motif/analysis/repeat_metrics.csv",
+     "where": ""
+    },
+    {
+     "label": "per-copy contacts",
+     "path": "2026 iGEM Project Plant Stress/00_Deliverable_Reports/00_Docking_Analysis/01_HADDOCK_Peptide_Receptor/12_Iterative_Motif/analysis/per_copy_contacts.csv",
+     "where": ""
+    }
+   ],
    "wiki": [
     {
      "page": "peptide-design/index.html",
@@ -29673,8 +29736,8 @@
    ],
    "images": [],
    "critical": false,
-   "confirmed_by": "",
-   "confirmed_on": ""
+   "confirmed_by": "Timmy (dry lab archive)",
+   "confirmed_on": "2026-10-14"
   },
   {
    "id": "WM-101",
@@ -29694,13 +29757,24 @@
    "value": "93",
    "unit": "% of variance",
    "date": "2026-07-30",
-   "status": "pending",
+   "status": "confirmed",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕獨立重算：以長度與淨電荷對 HADDOCK 分數做最小平方迴歸，PEPR1 的 R² = 0.929、PEPR2 = 0.938、合併 = 0.919，與「93% 可由長度與淨電荷解釋」一致。值得加一句：長度單獨就有 0.927，淨電荷幾乎沒有額外貢獻。",
+    "en": "[14 Oct dry lab archive check] Independently recomputed: least-squares regression of the HADDOCK score on length and net charge gives R2 = 0.929 for PEPR1, 0.938 for PEPR2 and 0.919 pooled, consistent with 93% explainable by length and net charge. Worth adding one clause: length alone already gives 0.927, so net charge adds almost nothing."
    },
    "ask": "",
-   "source": [],
+   "source": [
+    {
+     "label": "recomputed 14 Oct from the master matrix",
+     "path": "records/2026-10-14-drylab-consolidation.md",
+     "where": "section 5"
+    },
+    {
+     "label": "truncation ladder master matrix",
+     "path": "2026 iGEM Project Plant Stress/00_Deliverable_Reports/00_Docking_Analysis/01_HADDOCK_Peptide_Receptor/11_Truncation_Series/MASTER_MATRIX_34complexes.csv",
+     "where": ""
+    }
+   ],
    "wiki": [
     {
      "page": "protein-design/sprints/index.html",
@@ -29715,8 +29789,8 @@
    ],
    "images": [],
    "critical": false,
-   "confirmed_by": "",
-   "confirmed_on": ""
+   "confirmed_by": "Timmy (dry lab archive)",
+   "confirmed_on": "2026-10-14"
   },
   {
    "id": "WM-102",
@@ -29736,13 +29810,29 @@
    "value": "0.49",
    "unit": "ipTM",
    "date": "",
-   "status": "pending",
+   "status": "confirmed",
    "status_note": {
-    "zh": "Peptide Design 後來把「K8Q+K18R 在 PEPR1 上崩潰」列為已撤回的主張，理由是一個有資訊的方法加一個沒有資訊的方法不構成分歧。兩頁的立場不同。",
-    "en": "Peptide Design later lists 'K8Q+K18R collapses on PEPR1' as a retracted claim, on the grounds that one informative method and one uninformative one is not a disagreement. The two pages take different positions."
+    "zh": "Peptide Design 後來把「K8Q+K18R 在 PEPR1 上崩潰」列為已撤回的主張，理由是一個有資訊的方法加一個沒有資訊的方法不構成分歧。兩頁的立場不同。\n〔10/14 乾實驗封存核對〕核心數字全部對上：K8Q+K18R 對 PEPR1 的 ipTM 0.49、介面 PAE 9.45 Å、受體介面殘基 42（全套最少）、HADDOCK −194.7，two_method_matrix 的判定字串就是 DISCORDANT-HADDOCK-rescues；其餘面板的 ipTM 落在 0.75 到 0.89、PAE 1.62 到 2.78，與頁面相同。頁面的「九個氫鍵對 16 到 21」與「位置 18 斷在 3.42 Å」不在這兩個檔案裡（結構矩陣記的是 polar_contacts 16），未核對。",
+    "en": "Peptide Design later lists 'K8Q+K18R collapses on PEPR1' as a retracted claim, on the grounds that one informative method and one uninformative one is not a disagreement. The two pages take different positions.\n[14 Oct dry lab archive check] The core numbers all reproduce: K8Q+K18R against PEPR1 has ipTM 0.49, interface PAE 9.45 A, 42 receptor interface residues (the fewest in the set) and a HADDOCK score of -194.7, and the verdict string in two_method_matrix.csv is literally DISCORDANT-HADDOCK-rescues; the rest of the panel sits at ipTM 0.75 to 0.89 and PAE 1.62 to 2.78 as the page says. The nine hydrogen bonds against 16 to 21, and the position-18 anchor broken at 3.42 A, are not in these two files (the structural matrix records polar_contacts 16) and were not checked."
    },
    "ask": "",
-   "source": [],
+   "source": [
+    {
+     "label": "AF3 confidence matrix",
+     "path": "2026 iGEM Project Plant Stress/00_Deliverable_Reports/00_Docking_Analysis/01_HADDOCK_Peptide_Receptor/08_Top4_Docking/AF3_confidence_matrix.csv",
+     "where": ""
+    },
+    {
+     "label": "AF3 structural metrics",
+     "path": "2026 iGEM Project Plant Stress/00_Deliverable_Reports/00_Docking_Analysis/01_HADDOCK_Peptide_Receptor/08_Top4_Docking/AF3_structural_metrics.csv",
+     "where": ""
+    },
+    {
+     "label": "two-method matrix verdicts",
+     "path": "2026 iGEM Project Plant Stress/00_Deliverable_Reports/00_Docking_Analysis/01_HADDOCK_Peptide_Receptor/09_HADDOCK_confirmation/two_method_matrix.csv",
+     "where": ""
+    }
+   ],
    "wiki": [
     {
      "page": "protein-design/sprints/index.html",
@@ -29757,8 +29847,8 @@
    ],
    "images": [],
    "critical": false,
-   "confirmed_by": "",
-   "confirmed_on": ""
+   "confirmed_by": "Timmy (dry lab archive)",
+   "confirmed_on": "2026-10-14"
   },
   {
    "id": "WM-103",
@@ -29854,16 +29944,27 @@
     "zh": "GRAFT Methodology 頁通篇寫 HADDOCK 2.4（包括截短梯與二元對接）。Sprints 的丙胺酸掃描寫「全部 19 個系統經過相同的 HADDOCK 2.5 水精修」。Peptide Design 的重現性表寫「HADDOCK 2.5，發行版 haddock2.5-2026-07，在本機執行」。",
     "en": "The GRAFT Methodology page says HADDOCK 2.4 throughout, including for the truncation ladder and binary docking. The Sprints alanine scan says all 19 systems went through identical HADDOCK 2.5 water refinement. The Peptide Design reproducibility table says HADDOCK 2.5, distribution haddock2.5-2026-07, run locally."
    },
-   "value": "",
+   "value": "2.5",
    "unit": "",
    "date": "",
-   "status": "conflict",
+   "status": "confirmed",
    "status_note": {
-    "zh": "2.4 與 2.5 同時在站上，且參考文獻同時列 HADDOCK2.2 與 HADDOCK2.4 的論文。需確認實際跑的版本。",
-    "en": "Both 2.4 and 2.5 are live on the site and the reference lists cite both the HADDOCK2.2 and HADDOCK2.4 papers. The version actually run needs confirming."
+    "zh": "2.4 與 2.5 同時在站上，且參考文獻同時列 HADDOCK2.2 與 HADDOCK2.4 的論文。需確認實際跑的版本。\n〔10/14 乾實驗封存核對〕敲定：實際跑的是 HADDOCK 2.5。稽核報告的軟體堆疊表寫明「HADDOCK 2.5（distribution haddock2.5-2026-07）」、121 次 production run 全部在本機、Python 3.12，而且特別記下 2026-07-21 的確認報告誤稱 HADDOCK 2.5 需要 Python 2.7、本機無法執行，那是錯的。頁面上的 2.4 來自協定論文（Honorato et al. 2024, HADDOCK2.4 web server），那篇是引用來源而不是版本。GRAFT Methodology 的「HADDOCK 2.4」需要改成 2.5，或改寫成引用 2.4 的協定論文。",
+    "en": "Both 2.4 and 2.5 are live on the site and the reference lists cite both the HADDOCK2.2 and HADDOCK2.4 papers. The version actually run needs confirming.\n[14 Oct dry lab archive check] Settled: what ran is HADDOCK 2.5. The audit's software-stack table states HADDOCK 2.5 (distribution haddock2.5-2026-07), all 121 production runs local, Python 3.12, and it specifically records that the 2026-07-21 confirmation report's claim that HADDOCK 2.5 needs Python 2.7 and could not run locally was incorrect. The 2.4 on the page comes from the protocol paper, Honorato et al. 2024 on the HADDOCK2.4 web server, which is a citation and not a version. GRAFT Methodology's HADDOCK 2.4 should become 2.5, or be rewritten as a citation of the 2.4 protocol paper."
    },
-   "ask": "Timmy / Ethan",
-   "source": [],
+   "ask": "",
+   "source": [
+    {
+     "label": "methodology audit software stack",
+     "path": "2026 iGEM Project Plant Stress/00_Deliverable_Reports/00_Docking_Analysis/00_Methodology/15_Methodology_Audit/latex-source/report.tex",
+     "where": "Docking engine / Python rows"
+    },
+    {
+     "label": "audit title block",
+     "path": "2026 iGEM Project Plant Stress/00_Deliverable_Reports/00_Docking_Analysis/00_Methodology/15_Methodology_Audit/latex-source/report.tex",
+     "where": "HADDOCK 2.5 (local, 121 production runs)"
+    }
+   ],
    "wiki": [
     {
      "page": "protein-design/methodology/index.html",
@@ -29883,8 +29984,8 @@
    ],
    "images": [],
    "critical": false,
-   "confirmed_by": "",
-   "confirmed_on": ""
+   "confirmed_by": "Timmy (dry lab archive)",
+   "confirmed_on": "2026-10-14"
   },
   {
    "id": "WM-106",
@@ -29904,13 +30005,19 @@
    "value": "1000/200/200",
    "unit": "models",
    "date": "",
-   "status": "pending",
+   "status": "confirmed",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕稽核報告記下兩套取樣：標準 1000/200/200（協定論文的預設，稽核確認分數公式套用正確），以及確認級的 40/10/10，並算出那是標準取樣的 4%/5%/5%。與頁面一致。",
+    "en": "[14 Oct dry lab archive check] The audit records both sampling regimes: the standard 1000/200/200 from the protocol paper, with the audit confirming the score formula is applied correctly, and the confirmation-class 40/10/10, which it computes as 4% / 5% / 5% of standard sampling. That matches the page."
    },
    "ask": "",
-   "source": [],
+   "source": [
+    {
+     "label": "methodology audit",
+     "path": "2026 iGEM Project Plant Stress/00_Deliverable_Reports/00_Docking_Analysis/00_Methodology/15_Methodology_Audit/latex-source/report.tex",
+     "where": "sampling / 40-10-10 and 1000-200-200"
+    }
+   ],
    "wiki": [
     {
      "page": "protein-design/methodology/index.html",
@@ -29920,8 +30027,8 @@
    ],
    "images": [],
    "critical": false,
-   "confirmed_by": "",
-   "confirmed_on": ""
+   "confirmed_by": "Timmy (dry lab archive)",
+   "confirmed_on": "2026-10-14"
   },
   {
    "id": "WM-107",
@@ -29985,8 +30092,8 @@
    "date": "",
    "status": "pending",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕14 Oct 核對：限制條件推導這一段（WHISCY、US-align、Kabsch 重擬、DisVis、PEPR2 轉移、threading 的 f-nat）在兩個專案資料夾裡都找不到輸出檔；封存的對接資料只到 HADDOCK 與 AF3 的結果矩陣。這些數字留在已不存在的運算工作區（~/software/haddock-runs/bopep4-pepr1/）。",
+    "en": "[14 Oct dry lab archive check] Checked 14 Oct: the restraint-derivation work (WHISCY, US-align, the Kabsch refit, DisVis, the PEPR2 transfer and the threading f-nat) has no output file in either project folder; the archived docking data starts at the HADDOCK and AF3 result matrices. Those numbers stayed in the compute workspace (~/software/haddock-runs/bopep4-pepr1/) which is no longer on this machine."
    },
    "ask": "",
    "source": [],
@@ -30022,8 +30129,8 @@
    "date": "",
    "status": "pending",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕14 Oct 核對：限制條件推導這一段（WHISCY、US-align、Kabsch 重擬、DisVis、PEPR2 轉移、threading 的 f-nat）在兩個專案資料夾裡都找不到輸出檔；封存的對接資料只到 HADDOCK 與 AF3 的結果矩陣。這些數字留在已不存在的運算工作區（~/software/haddock-runs/bopep4-pepr1/）。",
+    "en": "[14 Oct dry lab archive check] Checked 14 Oct: the restraint-derivation work (WHISCY, US-align, the Kabsch refit, DisVis, the PEPR2 transfer and the threading f-nat) has no output file in either project folder; the archived docking data starts at the HADDOCK and AF3 result matrices. Those numbers stayed in the compute workspace (~/software/haddock-runs/bopep4-pepr1/) which is no longer on this machine."
    },
    "ask": "",
    "source": [],
@@ -30064,8 +30171,8 @@
    "date": "",
    "status": "pending",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕14 Oct 核對：限制條件推導這一段（WHISCY、US-align、Kabsch 重擬、DisVis、PEPR2 轉移、threading 的 f-nat）在兩個專案資料夾裡都找不到輸出檔；封存的對接資料只到 HADDOCK 與 AF3 的結果矩陣。這些數字留在已不存在的運算工作區（~/software/haddock-runs/bopep4-pepr1/）。",
+    "en": "[14 Oct dry lab archive check] Checked 14 Oct: the restraint-derivation work (WHISCY, US-align, the Kabsch refit, DisVis, the PEPR2 transfer and the threading f-nat) has no output file in either project folder; the archived docking data starts at the HADDOCK and AF3 result matrices. Those numbers stayed in the compute workspace (~/software/haddock-runs/bopep4-pepr1/) which is no longer on this machine."
    },
    "ask": "",
    "source": [],
@@ -30101,8 +30208,8 @@
    "date": "",
    "status": "pending",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕14 Oct 核對：限制條件推導這一段（WHISCY、US-align、Kabsch 重擬、DisVis、PEPR2 轉移、threading 的 f-nat）在兩個專案資料夾裡都找不到輸出檔；封存的對接資料只到 HADDOCK 與 AF3 的結果矩陣。這些數字留在已不存在的運算工作區（~/software/haddock-runs/bopep4-pepr1/）。",
+    "en": "[14 Oct dry lab archive check] Checked 14 Oct: the restraint-derivation work (WHISCY, US-align, the Kabsch refit, DisVis, the PEPR2 transfer and the threading f-nat) has no output file in either project folder; the archived docking data starts at the HADDOCK and AF3 result matrices. Those numbers stayed in the compute workspace (~/software/haddock-runs/bopep4-pepr1/) which is no longer on this machine."
    },
    "ask": "",
    "source": [],
@@ -30138,8 +30245,8 @@
    "date": "",
    "status": "conflict",
    "status_note": {
-    "zh": "方法頁把 DisVis 列為 HADDOCK 前的幾何可行性檢核，但這個檢核從未產生結果。需要 WeNMR 帳號。待問清單第 35 題。",
-    "en": "The methodology page presents DisVis as the geometric feasibility check before HADDOCK, but the check has never produced a result. A WeNMR account is needed. Open question 35."
+    "zh": "方法頁把 DisVis 列為 HADDOCK 前的幾何可行性檢核，但這個檢核從未產生結果。需要 WeNMR 帳號。待問清單第 35 題。\n〔10/14 乾實驗封存核對〕14 Oct 核對：限制條件推導這一段（WHISCY、US-align、Kabsch 重擬、DisVis、PEPR2 轉移、threading 的 f-nat）在兩個專案資料夾裡都找不到輸出檔；封存的對接資料只到 HADDOCK 與 AF3 的結果矩陣。這些數字留在已不存在的運算工作區（~/software/haddock-runs/bopep4-pepr1/）。",
+    "en": "The methodology page presents DisVis as the geometric feasibility check before HADDOCK, but the check has never produced a result. A WeNMR account is needed. Open question 35.\n[14 Oct dry lab archive check] Checked 14 Oct: the restraint-derivation work (WHISCY, US-align, the Kabsch refit, DisVis, the PEPR2 transfer and the threading f-nat) has no output file in either project folder; the archived docking data starts at the HADDOCK and AF3 result matrices. Those numbers stayed in the compute workspace (~/software/haddock-runs/bopep4-pepr1/) which is no longer on this machine."
    },
    "ask": "Timmy / Ethan",
    "source": [],
@@ -30180,8 +30287,8 @@
    "date": "",
    "status": "pending",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕14 Oct 核對：限制條件推導這一段（WHISCY、US-align、Kabsch 重擬、DisVis、PEPR2 轉移、threading 的 f-nat）在兩個專案資料夾裡都找不到輸出檔；封存的對接資料只到 HADDOCK 與 AF3 的結果矩陣。這些數字留在已不存在的運算工作區（~/software/haddock-runs/bopep4-pepr1/）。",
+    "en": "[14 Oct dry lab archive check] Checked 14 Oct: the restraint-derivation work (WHISCY, US-align, the Kabsch refit, DisVis, the PEPR2 transfer and the threading f-nat) has no output file in either project folder; the archived docking data starts at the HADDOCK and AF3 result matrices. Those numbers stayed in the compute workspace (~/software/haddock-runs/bopep4-pepr1/) which is no longer on this machine."
    },
    "ask": "",
    "source": [],
@@ -30217,8 +30324,8 @@
    "date": "",
    "status": "pending",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕14 Oct 核對：限制條件推導這一段（WHISCY、US-align、Kabsch 重擬、DisVis、PEPR2 轉移、threading 的 f-nat）在兩個專案資料夾裡都找不到輸出檔；封存的對接資料只到 HADDOCK 與 AF3 的結果矩陣。這些數字留在已不存在的運算工作區（~/software/haddock-runs/bopep4-pepr1/）。",
+    "en": "[14 Oct dry lab archive check] Checked 14 Oct: the restraint-derivation work (WHISCY, US-align, the Kabsch refit, DisVis, the PEPR2 transfer and the threading f-nat) has no output file in either project folder; the archived docking data starts at the HADDOCK and AF3 result matrices. Those numbers stayed in the compute workspace (~/software/haddock-runs/bopep4-pepr1/) which is no longer on this machine."
    },
    "ask": "",
    "source": [],
@@ -30254,8 +30361,8 @@
    "date": "",
    "status": "pending",
    "status_note": {
-    "zh": "頁面自述這些清單是同源模型的起始假設而非已驗證的限制集。",
-    "en": "The page states these lists are a starting hypothesis for the homology model rather than a validated restraint set."
+    "zh": "頁面自述這些清單是同源模型的起始假設而非已驗證的限制集。\n〔10/14 乾實驗封存核對〕14 Oct 核對：限制條件推導這一段（WHISCY、US-align、Kabsch 重擬、DisVis、PEPR2 轉移、threading 的 f-nat）在兩個專案資料夾裡都找不到輸出檔；封存的對接資料只到 HADDOCK 與 AF3 的結果矩陣。這些數字留在已不存在的運算工作區（~/software/haddock-runs/bopep4-pepr1/）。",
+    "en": "The page states these lists are a starting hypothesis for the homology model rather than a validated restraint set.\n[14 Oct dry lab archive check] Checked 14 Oct: the restraint-derivation work (WHISCY, US-align, the Kabsch refit, DisVis, the PEPR2 transfer and the threading f-nat) has no output file in either project folder; the archived docking data starts at the HADDOCK and AF3 result matrices. Those numbers stayed in the compute workspace (~/software/haddock-runs/bopep4-pepr1/) which is no longer on this machine."
    },
    "ask": "",
    "source": [],
@@ -30708,8 +30815,8 @@
    "date": "",
    "status": "pending",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕14 Oct 核對：限制條件推導這一段（WHISCY、US-align、Kabsch 重擬、DisVis、PEPR2 轉移、threading 的 f-nat）在兩個專案資料夾裡都找不到輸出檔；封存的對接資料只到 HADDOCK 與 AF3 的結果矩陣。這些數字留在已不存在的運算工作區（~/software/haddock-runs/bopep4-pepr1/）。",
+    "en": "[14 Oct dry lab archive check] Checked 14 Oct: the restraint-derivation work (WHISCY, US-align, the Kabsch refit, DisVis, the PEPR2 transfer and the threading f-nat) has no output file in either project folder; the archived docking data starts at the HADDOCK and AF3 result matrices. Those numbers stayed in the compute workspace (~/software/haddock-runs/bopep4-pepr1/) which is no longer on this machine."
    },
    "ask": "",
    "source": [],
@@ -31211,13 +31318,29 @@
    "value": "98.7",
    "unit": "% occupancy",
    "date": "",
-   "status": "pending",
+   "status": "conflict",
    "status_note": {
-    "zh": "Lys7-Asp129 的佔有率與距離未在原始 JSON 中直接核對；頁面上的 7-23 與 9-23 夾鉗數字則與原始資料一致。",
-    "en": "The Lys7-Asp129 occupancy and distance were not checked directly in the raw JSON, though the 7-23 and 9-23 clamp figures on the page do match the raw data."
+    "zh": "Lys7-Asp129 的佔有率與距離未在原始 JSON 中直接核對；頁面上的 7-23 與 9-23 夾鉗數字則與原始資料一致。\n〔10/14 乾實驗封存核對〕數字對得上，歸屬錯了。98.7% 與 2.81 Å 是 **7-23** 這一條軌跡的 Lys7–Asp129 鹽橋（bopep4-7-23.json 的 X.extras.T723.lys.7：partner Asp129、partner_d 2.81、partner_occ4 98.7、anion_occ4 98.73），而同一頁的受體佔據率差異表把受體 Asp129 列為野生型 44.2%、7-23 為 98.7%（d = 54.5）。頁面寫「在全長胜肽中…98.7%」方向相反：全長只有 44.2%。這句是整個「缺少這個鹽橋解釋 9-23 不穩」論證的支點，需要改成 7-23。其餘數字都對：clamp 77.1 → 98.5、Asn23–Arg487 81.1 → 99.9、bidentate 46.9 → 87.7（overview 的 T923/T723 欄位）。",
+    "en": "The Lys7-Asp129 occupancy and distance were not checked directly in the raw JSON, though the 7-23 and 9-23 clamp figures on the page do match the raw data.\n[14 Oct dry lab archive check] The numbers are right and the attribution is not. The 98.7% at 2.81 A is the Lys7-Asp129 salt bridge in the **7-23** trajectory (bopep4-7-23.json, X.extras.T723.lys.7: partner Asp129, partner_d 2.81, partner_occ4 98.7, anion_occ4 98.73), while the receptor-occupancy delta table on the same page lists receptor Asp129 at 44.2% for wild type against 98.7% for 7-23 (d = 54.5). The page says 'in the full-length peptide ... 98.7%', which is backwards: full length is 44.2%. That sentence is the hinge of the whole argument that the missing salt bridge explains 9-23's instability, so it has to say 7-23. Everything else checks: clamp 77.1 to 98.5, Asn23-Arg487 81.1 to 99.9, bidentate 46.9 to 87.7, all in the overview T923 and T723 entries."
    },
-   "ask": "",
-   "source": [],
+   "ask": "Timmy / Ethan",
+   "source": [
+    {
+     "label": "Lys7-Asp129 in the 7-23 run",
+     "path": "releaf-wiki/md-simulations/data/bopep4-7-23.json",
+     "where": "X.extras.T723.lys.7"
+    },
+    {
+     "label": "receptor occupancy delta, WT against 7-23",
+     "path": "releaf-wiki/md-simulations/data/bopep4-7-23.json",
+     "where": "footprint delta, num 129 ASP"
+    },
+    {
+     "label": "clamp and salt-bridge figures",
+     "path": "releaf-wiki/md-simulations/data/report_data_overview.json",
+     "where": "runs.T723 / runs.T923"
+    }
+   ],
    "wiki": [
     {
      "page": "protein-design/molecular-dynamics/index.html",
@@ -31395,13 +31518,19 @@
    "value": "6.1",
    "unit": "A",
    "date": "",
-   "status": "pending",
+   "status": "confirmed",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕精確對上：bopep4-lowph-vs-wt.json 的 his 區塊記 His14 的 d_anion 在 pH 7（HIE）為 6.09 Å、pH 5.5（HIP）為 6.08 Å，兩者 occ4_anion 都是 0.0%。同一區塊的受體 His227 在 pH 5.5 是 2.75 Å、99.9%，所以「感應 pH 的是 His227–Glu12，不是 His14」成立。",
+    "en": "[14 Oct dry lab archive check] Exact match: the his block in bopep4-lowph-vs-wt.json records His14 with d_anion 6.09 A at pH 7 (HIE) and 6.08 A at pH 5.5 (HIP), with occ4_anion 0.0% in both. In the same block receptor His227 is at 2.75 A and 99.9% at pH 5.5, so the pH-sensing pair being His227 with Glu12 rather than His14 holds."
    },
    "ask": "",
-   "source": [],
+   "source": [
+    {
+     "label": "histidine distances and occupancies",
+     "path": "releaf-wiki/md-simulations/data/bopep4-lowph-vs-wt.json",
+     "where": "X.WT.his / X.LOWPH.his"
+    }
+   ],
    "wiki": [
     {
      "page": "md-simulations/index.html",
@@ -31411,8 +31540,8 @@
    ],
    "images": [],
    "critical": false,
-   "confirmed_by": "",
-   "confirmed_on": ""
+   "confirmed_by": "Timmy (dry lab archive)",
+   "confirmed_on": "2026-10-14"
   },
   {
    "id": "WM-143",
@@ -32103,12 +32232,12 @@
    "value": "",
    "unit": "",
    "date": "",
-   "status": "conflict",
+   "status": "confirmed",
    "status_note": {
-    "zh": "三頁的說法互相矛盾，且 MD 頁內部自相矛盾。需要問 wet lab 實際訂的是哪一種構築。待問清單第 37 題。\n〔10/14 乾實驗封存核對〕封存檔決定了六月與七月訂的構築：純化標籤在 C 端。run_sharp_opt.py 的 build_base_cds 是 mature + CATCATCATCATCATCAT + TAA，order_rows.json 裡每一條全長序列都以 ...CATCATCATCATCATCATTAA 結尾，releaf-model 的參數表也把成熟蛋白記為 Csn 切除後的 ACCD + 6xHis（37,636 Da）。若 8 月 16 日之後真的把標籤改到 N 端，封存裡沒有任何檔案記錄那一批。問題因此縮小成一句：8/16 之後實際訂的是哪一種。",
-    "en": "The three pages contradict each other and the MD page contradicts itself. The wet lab has to say which construct was actually ordered. Open question 37.\n[14 Oct dry lab archive check] The archive settles what was ordered in June and July: the purification tag is C-terminal. build_base_cds in run_sharp_opt.py is mature + CATCATCATCATCATCAT + TAA, every full-length sequence in order_rows.json ends ...CATCATCATCATCATCATTAA, and the releaf-model parameter table records the mature protein as Csn-cleaved ACCD plus 6xHis at 37,636 Da. If the tag really moved to the N terminus after 16 August, no file in the archive records that order. The open question narrows to one sentence: which construct was actually ordered after 16 August."
+    "zh": "三頁的說法互相矛盾，且 MD 頁內部自相矛盾。需要問 wet lab 實際訂的是哪一種構築。待問清單第 37 題。\n〔10/14 乾實驗封存核對〕封存檔決定了六月與七月訂的構築：純化標籤在 C 端。run_sharp_opt.py 的 build_base_cds 是 mature + CATCATCATCATCATCAT + TAA，order_rows.json 裡每一條全長序列都以 ...CATCATCATCATCATCATTAA 結尾，releaf-model 的參數表也把成熟蛋白記為 Csn 切除後的 ACCD + 6xHis（37,636 Da）。若 8 月 16 日之後真的把標籤改到 N 端，封存裡沒有任何檔案記錄那一批。問題因此縮小成一句：8/16 之後實際訂的是哪一種。\n〔10/14 乾實驗封存核對〕已敲定：訂單檔案說標籤在 N 端。8/20 下訂、8/23 的零件清單 BoPep4_0823_parts.csv 把 6xHis 列為 `6xHis_tag_N_terminal`，位置在 SamyQ 訊號肽（396–488）之後、payload 之前（489–506），並明寫備註「N-terminal only; never fuse His to Asn23」。六個 cassette 的長度也對上（D-01 691、D-02/03/06 715、D-04 673、D-05 697 bp）。因此：Peptide Design 頁關於 8/16 之後訂單的敘述正確；Molecular Dynamics 頁「把純化標籤移到 C 端的決定」那一句是錯的；GRAFT Methodology 的「附加 C 端 6xHis」只適用於六、七月的密碼子最佳化設計（run_sharp_opt.py 的 build_base_cds = mature + His6 + stop，order_rows.json 的全長序列都以 CATCAT...TAA 結尾），不適用於實際出貨的構築。這兩句需要改。",
+    "en": "The three pages contradict each other and the MD page contradicts itself. The wet lab has to say which construct was actually ordered. Open question 37.\n[14 Oct dry lab archive check] The archive settles what was ordered in June and July: the purification tag is C-terminal. build_base_cds in run_sharp_opt.py is mature + CATCATCATCATCATCAT + TAA, every full-length sequence in order_rows.json ends ...CATCATCATCATCATCATTAA, and the releaf-model parameter table records the mature protein as Csn-cleaved ACCD plus 6xHis at 37,636 Da. If the tag really moved to the N terminus after 16 August, no file in the archive records that order. The open question narrows to one sentence: which construct was actually ordered after 16 August.\n[14 Oct dry lab archive check] Settled: the order files say the tag is N-terminal. The 23 August parts list for the 20 August order, BoPep4_0823_parts.csv, lists the 6xHis as `6xHis_tag_N_terminal` sitting after the SamyQ signal peptide (396-488) and before the payload (489-506), with the explicit note 'N-terminal only; never fuse His to Asn23'. The six cassette lengths also reproduce (D-01 691, D-02/03/06 715, D-04 673, D-05 697 bp). So the Peptide Design page is right about the post-16-August orders; the Molecular Dynamics sentence about a decision to move the tag to the C-terminus is wrong; and GRAFT Methodology's C-terminal 6xHis applies only to the June and July codon-optimisation designs (build_base_cds in run_sharp_opt.py is mature + His6 + stop, and every full-length sequence in order_rows.json ends CATCAT...TAA), not to what shipped. Those two sentences need editing."
    },
-   "ask": "wet lab",
+   "ask": "",
    "source": [
     {
      "label": "His6 appended after the mature peptide",
@@ -32124,6 +32253,11 @@
      "label": "construct mass as built",
      "path": "2026 iGEM Project Plant Stress/Math Model/releaf-model/params/parameters.yaml",
      "where": "protein.MW_mature"
+    },
+    {
+     "label": "ordered cassette parts, tag position and lengths",
+     "path": "2026 iGEM Project Plant Stress/00_Deliverable_Reports/0823_Order_Report_Gabriel/BoPep4_0823_parts.csv",
+     "where": "6xHis_tag_N_terminal rows, D-01..D-06"
     }
    ],
    "wiki": [
@@ -32150,8 +32284,8 @@
    ],
    "images": [],
    "critical": true,
-   "confirmed_by": "",
-   "confirmed_on": ""
+   "confirmed_by": "Timmy (dry lab archive)",
+   "confirmed_on": "2026-10-14"
   },
   {
    "id": "WM-160",
@@ -32216,13 +32350,24 @@
    "value": "-181.9",
    "unit": "HADDOCK score at best seed",
    "date": "",
-   "status": "pending",
+   "status": "confirmed",
    "status_note": {
-    "zh": "頁面結論：此專案曾回報過的每一個分數差異都小於這個 seed 展幅。",
-    "en": "The page concludes that every score difference the project had ever reported is smaller than that seed spread."
+    "zh": "頁面結論：此專案曾回報過的每一個分數差異都小於這個 seed 展幅。\n〔10/14 乾實驗封存核對〕頁面引用的 −181.9 對上了：scores_repC.csv 的 BoPep4_WT_Chis_PEPR1_s2（seed 4242）為 −181.927，而同一組的晶體正對照 AtPep1_WT_PEPR1 是 −180.749，所以「全研究最佳分數、而且勝過晶體正對照」成立。另外兩個數字沒有在封存的分數表裡出現：面板 seed 917 的 BoPep4_WT_Chis_PEPR1 是 −173.1、未帶標籤的 BoPep4_WT_PEPR1 是 −144.8，不是頁面寫的 −155.7 與 −125.9。那兩個值可能來自 30 姿態面板的彙總（analyze_panel_v1.py.bak 顯示這個分析改寫過），需要有人提供那份彙總表。",
+    "en": "The page concludes that every score difference the project had ever reported is smaller than that seed spread.\n[14 Oct dry lab archive check] The -181.9 the page quotes checks out: BoPep4_WT_Chis_PEPR1_s2 at seed 4242 in scores_repC.csv is -181.927, and the crystallographic positive control in the same set, AtPep1_WT_PEPR1, is -180.749, so the best score in the study and better than the positive control both hold. The other two numbers are not in the archived score tables: at the panel seed 917 BoPep4_WT_Chis_PEPR1 is -173.1 and untagged BoPep4_WT_PEPR1 is -144.8, not the page's -155.7 and -125.9. Those may come from a 30-pose panel summary, since analyze_panel_v1.py.bak shows this analysis was rewritten; someone has to supply that summary table."
    },
-   "ask": "",
-   "source": [],
+   "ask": "Timmy / Ethan",
+   "source": [
+    {
+     "label": "panel scores, seed 917",
+     "path": "2026 iGEM Project Plant Stress/00_Deliverable_Reports/00_Docking_Analysis/01_HADDOCK_Peptide_Receptor/0816_IDT_Send/analysis/scores_A.csv",
+     "where": ""
+    },
+    {
+     "label": "replicate seeds for the tagged construct",
+     "path": "2026 iGEM Project Plant Stress/00_Deliverable_Reports/00_Docking_Analysis/01_HADDOCK_Peptide_Receptor/0816_IDT_Send/analysis/scores_repC.csv",
+     "where": ""
+    }
+   ],
    "wiki": [
     {
      "page": "peptide-design/index.html",
@@ -32232,8 +32377,8 @@
    ],
    "images": [],
    "critical": false,
-   "confirmed_by": "",
-   "confirmed_on": ""
+   "confirmed_by": "Timmy (dry lab archive)",
+   "confirmed_on": "2026-10-14"
   },
   {
    "id": "WM-162",
@@ -32253,13 +32398,24 @@
    "value": "2",
    "unit": "free grid points",
    "date": "",
-   "status": "pending",
+   "status": "conflict",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕距離與殘基數都對，但數量的名稱錯了。exit_channel.json 與 exit_channel_ternary.json 記的是：N 端 reach 6.5 Å、1.9 個殘基、n_seeds 111、free_points_explored 694；C 端單獨 PEPR1 為 10.4 Å、3.0 殘基、n_seeds 45、1,136 點；加上 BAK1 後為 20.9 Å、6.2 殘基、**n_seeds 2**、1,055 點。也就是頁面寫的「111 個與 2 個 free grid points」其實是 seed 數，不是自由格點數（自由格點是 694 與 1,055）。探針 2.4 Å、格距 1.0 Å 與頁面一致。需要改寫那一句的名稱。",
+    "en": "[14 Oct dry lab archive check] The distances and residue counts are right but the quantity is misnamed. exit_channel.json and exit_channel_ternary.json record the N terminus at reach 6.5 A, 1.9 residues, n_seeds 111 and free_points_explored 694; the C terminus with PEPR1 alone at 10.4 A, 3.0 residues, n_seeds 45 and 1,136 points; and with BAK1 at 20.9 A, 6.2 residues, **n_seeds 2** and 1,055 points. So the page's 111 and 2 'free grid points' are seed counts, not free grid points, which are 694 and 1,055. The 2.4 A probe and 1.0 A grid match the page. That sentence needs renaming."
    },
-   "ask": "",
-   "source": [],
+   "ask": "Timmy / Ethan",
+   "source": [
+    {
+     "label": "exit channel flood fill",
+     "path": "2026 iGEM Project Plant Stress/00_Deliverable_Reports/00_Docking_Analysis/01_HADDOCK_Peptide_Receptor/0816_IDT_Send/analysis/exit_channel.json",
+     "where": ""
+    },
+    {
+     "label": "ternary exit channel",
+     "path": "2026 iGEM Project Plant Stress/00_Deliverable_Reports/00_Docking_Analysis/01_HADDOCK_Peptide_Receptor/0816_IDT_Send/analysis/exit_channel_ternary.json",
+     "where": ""
+    }
+   ],
    "wiki": [
     {
      "page": "peptide-design/index.html",
@@ -32335,13 +32491,29 @@
    "value": "0.05",
    "unit": "Spearman rho",
    "date": "",
-   "status": "pending",
+   "status": "confirmed",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕稽核報告本文就是來源，字面寫 ρ ≈ +0.05（p > 0.05）、涵蓋 16 個等長類似物，並說明「移除那個完全一致的極端點後，ρ 由 +0.237 降到 +0.05」，與頁面的說法一致。我用封存的 15 列 alanine scan 自行重算，得到 PEPR1 ρ = −0.15、PEPR2 ρ = −0.04：同樣是「與零無法區分」的結論，但不是同一組數字，所以引用時寫「與零無法區分」比寫 +0.05 安全。",
+    "en": "[14 Oct dry lab archive check] The audit report itself is the source: it states rho approx +0.05 (p > 0.05) over the 16 equal-length analogues and explains that removing the one perfectly concordant extreme point drops rho from +0.237 to +0.05, which is what the page says. Recomputing independently on the 15 archived alanine-scan rows gives rho = -0.15 for PEPR1 and -0.04 for PEPR2: the same conclusion, indistinguishable from zero, but not the same digits, so 'indistinguishable from zero' is the safer phrasing to quote."
    },
    "ask": "",
-   "source": [],
+   "source": [
+    {
+     "label": "methodology audit",
+     "path": "2026 iGEM Project Plant Stress/00_Deliverable_Reports/00_Docking_Analysis/00_Methodology/15_Methodology_Audit/latex-source/report.tex",
+     "where": "rho over the 16 equal-length analogues"
+    },
+    {
+     "label": "Pearce comparison table",
+     "path": "2026 iGEM Project Plant Stress/00_Deliverable_Reports/00_Docking_Analysis/01_HADDOCK_Peptide_Receptor/13_Comparison_Pearce2008/analysis/pearce_comparison.csv",
+     "where": ""
+    },
+    {
+     "label": "recomputed 14 Oct",
+     "path": "records/2026-10-14-drylab-consolidation.md",
+     "where": "section 5"
+    }
+   ],
    "wiki": [
     {
      "page": "peptide-design/index.html",
@@ -32356,8 +32528,8 @@
    ],
    "images": [],
    "critical": false,
-   "confirmed_by": "",
-   "confirmed_on": ""
+   "confirmed_by": "Timmy (dry lab archive)",
+   "confirmed_on": "2026-10-14"
   },
   {
    "id": "WM-165",
@@ -32377,13 +32549,19 @@
    "value": "34",
    "unit": "complexes",
    "date": "",
-   "status": "pending",
+   "status": "confirmed",
    "status_note": {
-    "zh": "表中 8-23 與 9-23 的 HADDOCK 分數同為 −165.5，且 2-23 的兩個 ipTM 欄為空白。需確認是重複值還是漏填。",
-    "en": "The table gives the same HADDOCK score of -165.5 for both 8-23 and 9-23, and both ipTM cells for 2-23 are blank. Someone should confirm whether these are duplicated or missing values."
+    "zh": "表中 8-23 與 9-23 的 HADDOCK 分數同為 −165.5，且 2-23 的兩個 ipTM 欄為空白。需確認是重複值還是漏填。\n〔10/14 乾實驗封存核對〕整列對上 MASTER_MATRIX_34complexes.csv：17 個片段 × 2 個受體 = 34 列；HADDOCK 分數 1-23 的 −197.8 到 17-23 的 −85.1；PEPR1 ipTM 從 1-23 到 13-23 在 0.82 到 0.94 之間，13-23 的 0.87 掉到 14-23 的 0.54；介面 PAE 由 2.49 跳到 8.85。",
+    "en": "The table gives the same HADDOCK score of -165.5 for both 8-23 and 9-23, and both ipTM cells for 2-23 are blank. Someone should confirm whether these are duplicated or missing values.\n[14 Oct dry lab archive check] Every element reproduces from MASTER_MATRIX_34complexes.csv: 17 fragments times 2 receptors is 34 rows; the HADDOCK score runs from -197.8 at 1-23 to -85.1 at 17-23; PEPR1 ipTM sits between 0.82 and 0.94 from 1-23 to 13-23 and drops from 0.87 at 13-23 to 0.54 at 14-23; and the interface PAE jumps from 2.49 to 8.85."
    },
    "ask": "Timmy / Ethan",
-   "source": [],
+   "source": [
+    {
+     "label": "truncation ladder master matrix",
+     "path": "2026 iGEM Project Plant Stress/00_Deliverable_Reports/00_Docking_Analysis/01_HADDOCK_Peptide_Receptor/11_Truncation_Series/MASTER_MATRIX_34complexes.csv",
+     "where": ""
+    }
+   ],
    "wiki": [
     {
      "page": "peptide-design/index.html",
@@ -32406,8 +32584,8 @@
     }
    ],
    "critical": false,
-   "confirmed_by": "",
-   "confirmed_on": ""
+   "confirmed_by": "Timmy (dry lab archive)",
+   "confirmed_on": "2026-10-14"
   },
   {
    "id": "WM-166",
@@ -32427,13 +32605,24 @@
    "value": "-0.98",
    "unit": "r against buried area",
    "date": "",
-   "status": "pending",
+   "status": "confirmed",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕重算同一個矩陣：分數對長度的迴歸係數是每個殘基 −7.44（PEPR1），與頁面說的「約 −7.4 per residue」一致；17 段的 score/BSA 落在每 1,000 Å² −71.8 到 −86.0 之間，沒有任何位置出現階梯；最短的 17-23（已知非結合者）每殘基 −12.2，比全長的 −8.6 更「有利」。長度單獨就解釋 92.7% 的分數變異。",
+    "en": "[14 Oct dry lab archive check] Recomputed on the same matrix: regressing score on length gives -7.44 per residue for PEPR1, matching the page's roughly -7.4 per residue; score divided by buried area for the 17 rungs lies between -71.8 and -86.0 per 1,000 A2 with no step at any position; and the shortest fragment 17-23, a documented non-binder, is the most favourable per residue at -12.2 against -8.6 for full length. Length alone explains 92.7% of the score variance."
    },
    "ask": "",
-   "source": [],
+   "source": [
+    {
+     "label": "truncation ladder master matrix",
+     "path": "2026 iGEM Project Plant Stress/00_Deliverable_Reports/00_Docking_Analysis/01_HADDOCK_Peptide_Receptor/11_Truncation_Series/MASTER_MATRIX_34complexes.csv",
+     "where": ""
+    },
+    {
+     "label": "recomputed 14 Oct",
+     "path": "records/2026-10-14-drylab-consolidation.md",
+     "where": "section 5"
+    }
+   ],
    "wiki": [
     {
      "page": "peptide-design/index.html",
@@ -32448,8 +32637,8 @@
    ],
    "images": [],
    "critical": false,
-   "confirmed_by": "",
-   "confirmed_on": ""
+   "confirmed_by": "Timmy (dry lab archive)",
+   "confirmed_on": "2026-10-14"
   },
   {
    "id": "WM-167",
@@ -32469,13 +32658,19 @@
    "value": "9-14",
    "unit": "residue range",
    "date": "",
-   "status": "pending",
+   "status": "confirmed",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕兩個方法的斷點就在矩陣裡：HADDOCK/verdict 在 10-23 從 binder 轉為 weak（9-23 仍是 binder），AF3 的 ipTM 在 14-23 從 0.87 掉到 0.54、PAE 跳到 8.85。兩者相差五個殘基，9 到 14 的區間敘述正確。",
+    "en": "[14 Oct dry lab archive check] Both methods' cliffs are in the matrix: the HADDOCK verdict turns from binder to weak at 10-23 with 9-23 still a binder, while AF3's ipTM falls from 0.87 to 0.54 at 14-23 with the PAE jumping to 8.85. That is five residues apart, so stating it as a 9 to 14 range is right."
    },
    "ask": "",
-   "source": [],
+   "source": [
+    {
+     "label": "truncation ladder master matrix",
+     "path": "2026 iGEM Project Plant Stress/00_Deliverable_Reports/00_Docking_Analysis/01_HADDOCK_Peptide_Receptor/11_Truncation_Series/MASTER_MATRIX_34complexes.csv",
+     "where": "verdict and af3 columns"
+    }
+   ],
    "wiki": [
     {
      "page": "peptide-design/index.html",
@@ -32485,8 +32680,8 @@
    ],
    "images": [],
    "critical": false,
-   "confirmed_by": "",
-   "confirmed_on": ""
+   "confirmed_by": "Timmy (dry lab archive)",
+   "confirmed_on": "2026-10-14"
   },
   {
    "id": "WM-168",
@@ -32590,13 +32785,19 @@
    "value": "113",
    "unit": "runs",
    "date": "",
-   "status": "pending",
+   "status": "confirmed",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕對上稽核報告：創始 campaign 的 8 次 run 由 5GR8 晶體介面導出限制條件並以 0.77 Å 的 AtPep1 再對接作為正對照；之後的 campaign 共 113 次 run（8 + 113 = 121，稽核寫「113 of the 121 runs」）改成從被測的結合姿態出發、取樣 40 個剛體模型、FCC 0.60 分群、只報告一個最高分結構、沒有正對照。",
+    "en": "[14 Oct dry lab archive check] Matches the audit: the founding campaign's 8 runs derived restraints from the 5GR8 crystal interface and had AtPep1 re-docked at 0.77 A as a positive control, while the later campaigns' 113 runs (8 + 113 = 121, and the audit says '113 of the 121 runs') start from the pose being tested, sample 40 rigid-body models, cluster with FCC at 0.60, report one top-scoring structure and have no positive control."
    },
    "ask": "",
-   "source": [],
+   "source": [
+    {
+     "label": "methodology audit",
+     "path": "2026 iGEM Project Plant Stress/00_Deliverable_Reports/00_Docking_Analysis/00_Methodology/15_Methodology_Audit/latex-source/report.tex",
+     "where": "campaign comparison, 113 of 121 runs"
+    }
+   ],
    "wiki": [
     {
      "page": "peptide-design/index.html",
@@ -32606,8 +32807,8 @@
    ],
    "images": [],
    "critical": false,
-   "confirmed_by": "",
-   "confirmed_on": ""
+   "confirmed_by": "Timmy (dry lab archive)",
+   "confirmed_on": "2026-10-14"
   },
   {
    "id": "WM-171",
@@ -32627,13 +32828,29 @@
    "value": "121",
    "unit": "production runs",
    "date": "",
-   "status": "pending",
+   "status": "confirmed",
    "status_note": {
-    "zh": "「七個 campaign」與稽核表的「創始 campaign + 後續五個」（共六個）不一致，雖然 8 + 113 = 121 相符。",
-    "en": "Seven campaigns disagrees with the audit table's founding campaign plus five later ones, which is six, although 8 + 113 = 121 does add up."
+    "zh": "「七個 campaign」與稽核表的「創始 campaign + 後續五個」（共六個）不一致，雖然 8 + 113 = 121 相符。\n〔10/14 乾實驗封存核對〕逐項對上稽核報告：HADDOCK 2.5（haddock2.5-2026-07）、本機執行、七個 campaign 共 121 次 production run、AlphaFold3 每個 job 5 個 seed 共 44 個 job、門檻 ipTM ≥ 0.60、介面最小 PAE ≤ 5 Å、零碰撞；ViennaRNA 2.7.2、37 °C、236 nt 窗口也與密碼子封存的 REPORT.md 相符。CNS 1.3 的來源在 Haddock/cns_v1.3_r9。",
+    "en": "Seven campaigns disagrees with the audit table's founding campaign plus five later ones, which is six, although 8 + 113 = 121 does add up.\n[14 Oct dry lab archive check] Item by item against the audit: HADDOCK 2.5 (haddock2.5-2026-07), run locally, 121 production runs across seven campaigns, AlphaFold3 with 5 seeds per job across 44 jobs, gated at ipTM >= 0.60, interface minimum PAE <= 5 A and zero clashes. ViennaRNA 2.7.2 at 37 C over a 236 nt window also matches REPORT.md in the codon archive. CNS 1.3 is present as Haddock/cns_v1.3_r9."
    },
    "ask": "Timmy / Ethan",
-   "source": [],
+   "source": [
+    {
+     "label": "methodology audit reproducibility tables",
+     "path": "2026 iGEM Project Plant Stress/00_Deliverable_Reports/00_Docking_Analysis/00_Methodology/15_Methodology_Audit/latex-source/report.tex",
+     "where": "software stack and campaign inventory"
+    },
+    {
+     "label": "ViennaRNA window and version",
+     "path": "2026 iGEM Project Plant Stress/Codon Optimization/DNA files/vienna_rs_analysis/REPORT.md",
+     "where": "Method"
+    },
+    {
+     "label": "CNS distribution",
+     "path": "2026 iGEM Project Plant Stress/Haddock/cns_v1.3_r9",
+     "where": ""
+    }
+   ],
    "wiki": [
     {
      "page": "peptide-design/index.html",
@@ -32643,8 +32860,8 @@
    ],
    "images": [],
    "critical": false,
-   "confirmed_by": "",
-   "confirmed_on": ""
+   "confirmed_by": "Timmy (dry lab archive)",
+   "confirmed_on": "2026-10-14"
   },
   {
    "id": "WM-172",
@@ -32664,13 +32881,24 @@
    "value": "6",
    "unit": "cassettes",
    "date": "2026-08-20",
-   "status": "pending",
+   "status": "confirmed",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕六個 cassette 逐一對上 8/23 的零件清單：D-01 BoPep4_9-23_NHis 691 bp、D-02 BoPep4_G17A_1-23_NHis 715、D-03 BoPep4_WT_1-23_NHis 715、D-04 BoPep4_9-23_native 673、D-05 BoPep4_WT_1-23_native 697、D-06 BoPep4_S15A_1-23_NHis 715，長度由各段相加得出（395 + 93 + 18 + payload + 3 + 137）。六條共用同一段 PcpcG2-veg + B0015 + MF001 上游與 B0015 下游，His 標籤在 N 端，且沒有插入 spacer，所以帶標籤與不帶標籤確實是單一變數的配對。",
+    "en": "[14 Oct dry lab archive check] All six cassettes reproduce from the 23 August parts list: D-01 BoPep4_9-23_NHis at 691 bp, D-02 BoPep4_G17A_1-23_NHis at 715, D-03 BoPep4_WT_1-23_NHis at 715, D-04 BoPep4_9-23_native at 673, D-05 BoPep4_WT_1-23_native at 697 and D-06 BoPep4_S15A_1-23_NHis at 715, with the lengths summing from the parts (395 + 93 + 18 + payload + 3 + 137). All six share the same PcpcG2-veg + B0015 + MF001 upstream and B0015 downstream, the His tag is N-terminal, and no spacer was inserted, so the tagged and untagged pairs really are single-variable."
    },
    "ask": "",
-   "source": [],
+   "source": [
+    {
+     "label": "ordered cassette parts list",
+     "path": "2026 iGEM Project Plant Stress/00_Deliverable_Reports/0823_Order_Report_Gabriel/BoPep4_0823_parts.csv",
+     "where": ""
+    },
+    {
+     "label": "ordered cassettes fasta",
+     "path": "2026 iGEM Project Plant Stress/00_Deliverable_Reports/0823_Order_Report_Gabriel/BoPep4_0823_cassettes.fasta",
+     "where": ""
+    }
+   ],
    "wiki": [
     {
      "page": "peptide-design/index.html",
@@ -32685,8 +32913,8 @@
    ],
    "images": [],
    "critical": false,
-   "confirmed_by": "",
-   "confirmed_on": ""
+   "confirmed_by": "Timmy (dry lab archive)",
+   "confirmed_on": "2026-10-14"
   },
   {
    "id": "WM-173",
@@ -33169,13 +33397,19 @@
    "value": "5.80",
    "unit": "A",
    "date": "",
-   "status": "pending",
+   "status": "confirmed",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕對上稽核報告的 cluster landscape（野生型 BoPep4 production run，74 個分群模型）：cluster 1 有 39 個模型、分數 −134.8、對晶體姿態 l-RMSD 5.80 Å；被採用的是 cluster 3（7 個模型、−134.0、l-RMSD 1.48 Å），四個分群中的第三個。所有 60 個水精修模型的 l-RMSD 中位數是 9.08 Å。",
+    "en": "[14 Oct dry lab archive check] Matches the audit's cluster landscape for the wild-type BoPep4 production run, 74 clustered models: cluster 1 has 39 models, a score of -134.8 and an l-RMSD of 5.80 A to the crystal pose, while the one carried forward is cluster 3 of 4, with 7 models, -134.0 and an l-RMSD of 1.48 A. The median l-RMSD across all 60 water-refined models is 9.08 A."
    },
    "ask": "",
-   "source": [],
+   "source": [
+    {
+     "label": "methodology audit cluster landscape",
+     "path": "2026 iGEM Project Plant Stress/00_Deliverable_Reports/00_Docking_Analysis/00_Methodology/15_Methodology_Audit/latex-source/report.tex",
+     "where": "wild-type BoPep4 production run table"
+    }
+   ],
    "wiki": [
     {
      "page": "peptide-design/index.html",
@@ -33185,8 +33419,8 @@
    ],
    "images": [],
    "critical": false,
-   "confirmed_by": "",
-   "confirmed_on": ""
+   "confirmed_by": "Timmy (dry lab archive)",
+   "confirmed_on": "2026-10-14"
   },
   {
    "id": "WM-185",
@@ -33206,13 +33440,19 @@
    "value": "0.77",
    "unit": "A ligand RMSD",
    "date": "",
-   "status": "pending",
+   "status": "confirmed",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕稽核報告兩處記下這個正對照：摘要寫「genuine re-docking positive control (l-RMSD 0.77 Å, top-ranked)」，表內兩次 run（control_atpep1_12w −164.3、control_atpep1_55w −163.5）都是 0.77 Å、判定 near-native。頁面另外說與第一個非原生姿態有 35 單位的分數差，這一項沒有在封存裡核對。",
+    "en": "[14 Oct dry lab archive check] The audit records this control twice: the summary says a genuine re-docking positive control at l-RMSD 0.77 A, top-ranked, and the table carries two runs, control_atpep1_12w at -164.3 and control_atpep1_55w at -163.5, both 0.77 A and graded near-native. The page's 35-unit score gap to the first non-native pose was not checked in the archive."
    },
    "ask": "",
-   "source": [],
+   "source": [
+    {
+     "label": "methodology audit positive control",
+     "path": "2026 iGEM Project Plant Stress/00_Deliverable_Reports/00_Docking_Analysis/00_Methodology/15_Methodology_Audit/latex-source/report.tex",
+     "where": "control_atpep1 rows"
+    }
+   ],
    "wiki": [
     {
      "page": "peptide-design/index.html",
@@ -33222,8 +33462,8 @@
    ],
    "images": [],
    "critical": false,
-   "confirmed_by": "",
-   "confirmed_on": ""
+   "confirmed_by": "Timmy (dry lab archive)",
+   "confirmed_on": "2026-10-14"
   },
   {
    "id": "WM-186",
@@ -33243,13 +33483,24 @@
    "value": "2.59",
    "unit": "A resolution",
    "date": "",
-   "status": "pending",
+   "status": "confirmed",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕三個外部結果都在封存裡對上：5GR8 作為對接受體（Pearce 的倍數記在 pearce_comparison.csv 的 note 欄：G17A「>4000-fold」、S15A「~100-fold」、移除 C 端 Asn23「>400-fold loss (Pearce Fig 3)」），Yamaguchi 的受體選擇性則是稽核報告 AF3 選擇性面板把 AtPep5/AtPep6 設為 DISCR/NONBIND 層級的依據。",
+    "en": "[14 Oct dry lab archive check] All three external results reproduce in the archive: 5GR8 is the docking receptor, and Pearce's factors are in the note column of pearce_comparison.csv (G17A '>4000-fold', S15A '~100-fold', removing the C-terminal Asn23 '>400-fold loss (Pearce Fig 3)'), while Yamaguchi's receptor selectivity is what the audit's AF3 selectivity panel uses to place AtPep5 and AtPep6 in its discrimination and non-binder tiers."
    },
    "ask": "",
-   "source": [],
+   "source": [
+    {
+     "label": "Pearce comparison with published factors",
+     "path": "2026 iGEM Project Plant Stress/00_Deliverable_Reports/00_Docking_Analysis/01_HADDOCK_Peptide_Receptor/13_Comparison_Pearce2008/analysis/pearce_comparison.csv",
+     "where": "note column"
+    },
+    {
+     "label": "AF3 selectivity panel tiers",
+     "path": "2026 iGEM Project Plant Stress/00_Deliverable_Reports/00_Docking_Analysis/00_Methodology/15_Methodology_Audit/latex-source/report.tex",
+     "where": "AF3 co-fold PEPR2 selectivity panel"
+    }
+   ],
    "wiki": [
     {
      "page": "peptide-design/index.html",
@@ -33259,8 +33510,8 @@
    ],
    "images": [],
    "critical": false,
-   "confirmed_by": "",
-   "confirmed_on": ""
+   "confirmed_by": "Timmy (dry lab archive)",
+   "confirmed_on": "2026-10-14"
   },
   {
    "id": "WM-187",
