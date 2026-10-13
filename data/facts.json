@@ -1,6 +1,6 @@
 {
  "meta": {
-  "version": "2026-10-13.1",
+  "version": "2026-10-14.1",
   "freeze": "2026-10-21T23:00:00+08:00",
   "wikiBase": "https://timmy97-tw.github.io/releaf-wiki/"
  },
@@ -8401,11 +8401,22 @@
    "date": "",
    "status": "pending",
    "status_note": {
-    "zh": "截短位置與待問清單第 30 項（LEA14 截短在 16 還是 23）屬於同一類未決設計問題。",
-    "en": "The truncation boundary belongs with open item 30 on whether LEA14 is truncated at residue 16 or 23."
+    "zh": "截短位置與待問清單第 30 項（LEA14 截短在 16 還是 23）屬於同一類未決設計問題。\n〔10/14 乾實驗封存核對〕密碼子封存裡有 SamyQ-BoPep4 的截短密碼子最佳化版本 1-23、7-23、9-23、15-23（SamyQ 固定，即 v2 設定），所以 9–23 這個變體確實存在。但 S15A 與 G17A 在密碼子或候選檔案裡都沒有：候選面板的取代位點是 K18R、K8Q、K8E、K8S、K8A。S15A/G17A 的設計來源仍需蛋白設計組提供。",
+    "en": "The truncation boundary belongs with open item 30 on whether LEA14 is truncated at residue 16 or 23.\n[14 Oct dry lab archive check] The codon archive holds codon-optimised truncations of SamyQ-BoPep4 at 1-23, 7-23, 9-23 and 15-23 with SamyQ held fixed (the v2 setting), so the 9-23 variant does exist. S15A and G17A appear in no codon or candidate file: the substitution panel is K18R, K8Q, K8E, K8S and K8A. The design basis for S15A and G17A still has to come from the protein design team."
    },
    "ask": "Protein design team",
-   "source": [],
+   "source": [
+    {
+     "label": "codon-optimised truncations",
+     "path": "2026 iGEM Project Plant Stress/Codon Optimization/DNA files/vienna_rs_analysis/truncation_codon_opt_results.json",
+     "where": "variants"
+    },
+    {
+     "label": "substitution candidate panel",
+     "path": "2026 iGEM Project Plant Stress/Codon Optimization/DNA files/vienna_rs_analysis/candidates_results.json",
+     "where": "substitutions"
+    }
+   ],
    "wiki": [
     {
      "page": "parts/index.html",
@@ -25429,8 +25440,8 @@
    "date": "",
    "status": "pending",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕14 Oct 已把兩個專案資料夾（2026 iGEM Project Plant Stress 與 Releaf_Wiki）整個搜過：Block 1 的擬合程式、候選清單、排列檢定輸出與 county-season 面板都不在封存裡，所以這個數字無法核對，維持 pending。封存裡最接近的是另一個模型（AIoT Sensors，671 列面板、458 個 county-season、ridge 與 GBM 的 LOYO），不是頁面上這個 32,767 組合的子集搜尋。21 Oct 凍結前需要有人把 Block 1 的程式與輸出放進專案資料夾。",
+    "en": "[14 Oct dry lab archive check] Both project folders (2026 iGEM Project Plant Stress and Releaf_Wiki) were searched in full on 14 October: the Block 1 fitting code, the candidate list, the permutation output and the county-season panel are not in the archive, so this number cannot be checked and stays pending. The nearest thing in the archive is a different model, the AIoT Sensors pipeline with a 671-row panel and 458 scored county-seasons under ridge and GBM, not the 32,767-combination subset search on the page. Before the 21 October freeze someone has to drop the Block 1 code and outputs into the project folder."
    },
    "ask": "",
    "source": [],
@@ -25469,10 +25480,10 @@
    "value": "32767",
    "unit": "combinations",
    "date": "",
-   "status": "pending",
+   "status": "confirmed",
    "status_note": {
-    "zh": "頁面同時寫「18 個候選逆境」與「15 個候選的組合」，兩個數字沒有說明如何從 18 收斂到 15。",
-    "en": "The page states 18 candidate stresses and then enumerates combinations of 15 candidates; how 18 became 15 is not explained."
+    "zh": "頁面同時寫「18 個候選逆境」與「15 個候選的組合」，兩個數字沒有說明如何從 18 收斂到 15。\n〔10/14 乾實驗封存核對〕2^15 − 1 = 32,767 是定義上的計數，重算無誤。但「18 個候選逆境」如何變成 15 個仍沒有說明，Block 1 的程式與輸出也不在封存裡（14 Oct 已搜過兩個專案資料夾），所以只有這個計數本身算確認。",
+    "en": "The page states 18 candidate stresses and then enumerates combinations of 15 candidates; how 18 became 15 is not explained.\n[14 Oct dry lab archive check] 2^15 - 1 = 32,767 is a definitional count and recomputes. How 18 candidate stresses became 15 is still unexplained, and the Block 1 code and outputs are not in the archive (both project folders were searched on 14 October), so only the count itself is confirmed."
    },
    "ask": "",
    "source": [],
@@ -25498,8 +25509,8 @@
     }
    ],
    "critical": false,
-   "confirmed_by": "",
-   "confirmed_on": ""
+   "confirmed_by": "Timmy (dry lab archive)",
+   "confirmed_on": "2026-10-14"
   },
   {
    "id": "WM-003",
@@ -25521,8 +25532,8 @@
    "date": "",
    "status": "pending",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕14 Oct 已把兩個專案資料夾（2026 iGEM Project Plant Stress 與 Releaf_Wiki）整個搜過：Block 1 的擬合程式、候選清單、排列檢定輸出與 county-season 面板都不在封存裡，所以這個數字無法核對，維持 pending。封存裡最接近的是另一個模型（AIoT Sensors，671 列面板、458 個 county-season、ridge 與 GBM 的 LOYO），不是頁面上這個 32,767 組合的子集搜尋。21 Oct 凍結前需要有人把 Block 1 的程式與輸出放進專案資料夾。",
+    "en": "[14 Oct dry lab archive check] Both project folders (2026 iGEM Project Plant Stress and Releaf_Wiki) were searched in full on 14 October: the Block 1 fitting code, the candidate list, the permutation output and the county-season panel are not in the archive, so this number cannot be checked and stays pending. The nearest thing in the archive is a different model, the AIoT Sensors pipeline with a 671-row panel and 458 scored county-seasons under ridge and GBM, not the 32,767-combination subset search on the page. Before the 21 October freeze someone has to drop the Block 1 code and outputs into the project folder."
    },
    "ask": "",
    "source": [],
@@ -25566,8 +25577,8 @@
    "date": "",
    "status": "pending",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕14 Oct 已把兩個專案資料夾（2026 iGEM Project Plant Stress 與 Releaf_Wiki）整個搜過：Block 1 的擬合程式、候選清單、排列檢定輸出與 county-season 面板都不在封存裡，所以這個數字無法核對，維持 pending。封存裡最接近的是另一個模型（AIoT Sensors，671 列面板、458 個 county-season、ridge 與 GBM 的 LOYO），不是頁面上這個 32,767 組合的子集搜尋。21 Oct 凍結前需要有人把 Block 1 的程式與輸出放進專案資料夾。",
+    "en": "[14 Oct dry lab archive check] Both project folders (2026 iGEM Project Plant Stress and Releaf_Wiki) were searched in full on 14 October: the Block 1 fitting code, the candidate list, the permutation output and the county-season panel are not in the archive, so this number cannot be checked and stays pending. The nearest thing in the archive is a different model, the AIoT Sensors pipeline with a 671-row panel and 458 scored county-seasons under ridge and GBM, not the 32,767-combination subset search on the page. Before the 21 October freeze someone has to drop the Block 1 code and outputs into the project folder."
    },
    "ask": "",
    "source": [],
@@ -25603,8 +25614,8 @@
    "date": "",
    "status": "pending",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕14 Oct 已把兩個專案資料夾（2026 iGEM Project Plant Stress 與 Releaf_Wiki）整個搜過：Block 1 的擬合程式、候選清單、排列檢定輸出與 county-season 面板都不在封存裡，所以這個數字無法核對，維持 pending。封存裡最接近的是另一個模型（AIoT Sensors，671 列面板、458 個 county-season、ridge 與 GBM 的 LOYO），不是頁面上這個 32,767 組合的子集搜尋。21 Oct 凍結前需要有人把 Block 1 的程式與輸出放進專案資料夾。",
+    "en": "[14 Oct dry lab archive check] Both project folders (2026 iGEM Project Plant Stress and Releaf_Wiki) were searched in full on 14 October: the Block 1 fitting code, the candidate list, the permutation output and the county-season panel are not in the archive, so this number cannot be checked and stays pending. The nearest thing in the archive is a different model, the AIoT Sensors pipeline with a 671-row panel and 458 scored county-seasons under ridge and GBM, not the 32,767-combination subset search on the page. Before the 21 October freeze someone has to drop the Block 1 code and outputs into the project folder."
    },
    "ask": "",
    "source": [],
@@ -25648,8 +25659,8 @@
    "date": "2026-09-26",
    "status": "pending",
    "status_note": {
-    "zh": "只有 4 個縣進來，頁面自己寫「四縣太少，不足以下結論」。等 16 縣齊全後要重算。",
-    "en": "Only 4 of 16 counties are in; the page itself says four counties is too few to call. The number has to be recomputed when the rest publish."
+    "zh": "只有 4 個縣進來，頁面自己寫「四縣太少，不足以下結論」。等 16 縣齊全後要重算。\n〔10/14 乾實驗封存核對〕14 Oct 已把兩個專案資料夾（2026 iGEM Project Plant Stress 與 Releaf_Wiki）整個搜過：Block 1 的擬合程式、候選清單、排列檢定輸出與 county-season 面板都不在封存裡，所以這個數字無法核對，維持 pending。封存裡最接近的是另一個模型（AIoT Sensors，671 列面板、458 個 county-season、ridge 與 GBM 的 LOYO），不是頁面上這個 32,767 組合的子集搜尋。21 Oct 凍結前需要有人把 Block 1 的程式與輸出放進專案資料夾。",
+    "en": "Only 4 of 16 counties are in; the page itself says four counties is too few to call. The number has to be recomputed when the rest publish.\n[14 Oct dry lab archive check] Both project folders (2026 iGEM Project Plant Stress and Releaf_Wiki) were searched in full on 14 October: the Block 1 fitting code, the candidate list, the permutation output and the county-season panel are not in the archive, so this number cannot be checked and stays pending. The nearest thing in the archive is a different model, the AIoT Sensors pipeline with a 671-row panel and 458 scored county-seasons under ridge and GBM, not the 32,767-combination subset search on the page. Before the 21 October freeze someone has to drop the Block 1 code and outputs into the project folder."
    },
    "ask": "",
    "source": [],
@@ -25698,8 +25709,8 @@
    "date": "",
    "status": "conflict",
    "status_note": {
-    "zh": "數學模型以 NT$7,539/ha 作為一次中度逆境作期的代價；地理空間分析同一件事寫 NT$61,786/ha 的淨效益（約 8.2 倍）。兩頁用的是不同的量（可及損失 vs 受保護與未受保護收益差），但頁面上沒有說明，讀者會直接對撞。",
-    "en": "Math Model prices a moderate stressed first-crop season at NT$7,539/ha, while Geospatial Analysis puts the per-crop benefit at NT$61,786/ha, about 8.2x more. The two pages are measuring different things but neither says so."
+    "zh": "數學模型以 NT$7,539/ha 作為一次中度逆境作期的代價；地理空間分析同一件事寫 NT$61,786/ha 的淨效益（約 8.2 倍）。兩頁用的是不同的量（可及損失 vs 受保護與未受保護收益差），但頁面上沒有說明，讀者會直接對撞。\n〔10/14 乾實驗封存核對〕14 Oct 已把兩個專案資料夾（2026 iGEM Project Plant Stress 與 Releaf_Wiki）整個搜過：Block 1 的擬合程式、候選清單、排列檢定輸出與 county-season 面板都不在封存裡，所以這個數字無法核對，維持 pending。封存裡最接近的是另一個模型（AIoT Sensors，671 列面板、458 個 county-season、ridge 與 GBM 的 LOYO），不是頁面上這個 32,767 組合的子集搜尋。21 Oct 凍結前需要有人把 Block 1 的程式與輸出放進專案資料夾。",
+    "en": "Math Model prices a moderate stressed first-crop season at NT$7,539/ha, while Geospatial Analysis puts the per-crop benefit at NT$61,786/ha, about 8.2x more. The two pages are measuring different things but neither says so.\n[14 Oct dry lab archive check] Both project folders (2026 iGEM Project Plant Stress and Releaf_Wiki) were searched in full on 14 October: the Block 1 fitting code, the candidate list, the permutation output and the county-season panel are not in the archive, so this number cannot be checked and stays pending. The nearest thing in the archive is a different model, the AIoT Sensors pipeline with a 671-row panel and 458 scored county-seasons under ridge and GBM, not the 32,767-combination subset search on the page. Before the 21 October freeze someone has to drop the Block 1 code and outputs into the project folder."
    },
    "ask": "Timmy / Ethan",
    "source": [],
@@ -25753,8 +25764,8 @@
    "date": "",
    "status": "pending",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕14 Oct 已把兩個專案資料夾（2026 iGEM Project Plant Stress 與 Releaf_Wiki）整個搜過：Block 1 的擬合程式、候選清單、排列檢定輸出與 county-season 面板都不在封存裡，所以這個數字無法核對，維持 pending。封存裡最接近的是另一個模型（AIoT Sensors，671 列面板、458 個 county-season、ridge 與 GBM 的 LOYO），不是頁面上這個 32,767 組合的子集搜尋。21 Oct 凍結前需要有人把 Block 1 的程式與輸出放進專案資料夾。",
+    "en": "[14 Oct dry lab archive check] Both project folders (2026 iGEM Project Plant Stress and Releaf_Wiki) were searched in full on 14 October: the Block 1 fitting code, the candidate list, the permutation output and the county-season panel are not in the archive, so this number cannot be checked and stays pending. The nearest thing in the archive is a different model, the AIoT Sensors pipeline with a 671-row panel and 458 scored county-seasons under ridge and GBM, not the 32,767-combination subset search on the page. Before the 21 October freeze someone has to drop the Block 1 code and outputs into the project folder."
    },
    "ask": "",
    "source": [],
@@ -25832,8 +25843,8 @@
    "date": "",
    "status": "pending",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕14 Oct 已把兩個專案資料夾（2026 iGEM Project Plant Stress 與 Releaf_Wiki）整個搜過：Block 1 的擬合程式、候選清單、排列檢定輸出與 county-season 面板都不在封存裡，所以這個數字無法核對，維持 pending。封存裡最接近的是另一個模型（AIoT Sensors，671 列面板、458 個 county-season、ridge 與 GBM 的 LOYO），不是頁面上這個 32,767 組合的子集搜尋。21 Oct 凍結前需要有人把 Block 1 的程式與輸出放進專案資料夾。",
+    "en": "[14 Oct dry lab archive check] Both project folders (2026 iGEM Project Plant Stress and Releaf_Wiki) were searched in full on 14 October: the Block 1 fitting code, the candidate list, the permutation output and the county-season panel are not in the archive, so this number cannot be checked and stays pending. The nearest thing in the archive is a different model, the AIoT Sensors pipeline with a 671-row panel and 458 scored county-seasons under ridge and GBM, not the 32,767-combination subset search on the page. Before the 21 October freeze someone has to drop the Block 1 code and outputs into the project folder."
    },
    "ask": "",
    "source": [],
@@ -26204,8 +26215,8 @@
    "date": "",
    "status": "pending",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕14 Oct 已把兩個專案資料夾（2026 iGEM Project Plant Stress 與 Releaf_Wiki）整個搜過：Block 1 的擬合程式、候選清單、排列檢定輸出與 county-season 面板都不在封存裡，所以這個數字無法核對，維持 pending。封存裡最接近的是另一個模型（AIoT Sensors，671 列面板、458 個 county-season、ridge 與 GBM 的 LOYO），不是頁面上這個 32,767 組合的子集搜尋。21 Oct 凍結前需要有人把 Block 1 的程式與輸出放進專案資料夾。",
+    "en": "[14 Oct dry lab archive check] Both project folders (2026 iGEM Project Plant Stress and Releaf_Wiki) were searched in full on 14 October: the Block 1 fitting code, the candidate list, the permutation output and the county-season panel are not in the archive, so this number cannot be checked and stays pending. The nearest thing in the archive is a different model, the AIoT Sensors pipeline with a 671-row panel and 458 scored county-seasons under ridge and GBM, not the 32,767-combination subset search on the page. Before the 21 October freeze someone has to drop the Block 1 code and outputs into the project folder."
    },
    "ask": "",
    "source": [],
@@ -26241,11 +26252,17 @@
    "date": "2026-10-07",
    "status": "pending",
    "status_note": {
-    "zh": "只有一孔、低於定量極限；批次時間未記錄，所以產速是推得而非量得。",
-    "en": "One well only and below the quantitation limit; batch duration was not recorded, so the production rate is inferred rather than measured."
+    "zh": "只有一孔、低於定量極限；批次時間未記錄，所以產速是推得而非量得。\n〔10/14 乾實驗封存核對〕算式已重算無誤：7.25 mU/mL = 7.25 nmol min⁻¹ mL⁻¹ = 435 µmol L⁻¹ h⁻¹，乘 ACC 分子量 101.10 g/mol 得 43.98 mg L⁻¹ h⁻¹，24 小時為 1.056 g L⁻¹ d⁻¹。但輸入的 7.25 mU/mL 仍未見原始檔，批次時間也沒記錄，所以維持 pending。",
+    "en": "One well only and below the quantitation limit; batch duration was not recorded, so the production rate is inferred rather than measured.\n[14 Oct dry lab archive check] The arithmetic reproduces: 7.25 mU/mL is 7.25 nmol min-1 mL-1, or 435 micromol L-1 h-1, which times the ACC molar mass of 101.10 g/mol gives 43.98 mg L-1 h-1 and 1.056 g L-1 d-1 over 24 hours. The input titre of 7.25 mU/mL still has no archived raw file and the batch duration was never recorded, so this stays pending."
    },
    "ask": "wet lab",
-   "source": [],
+   "source": [
+    {
+     "label": "arithmetic reproduced 14 Oct",
+     "path": "records/2026-10-14-drylab-consolidation.md",
+     "where": "section 3.1"
+    }
+   ],
    "wiki": [
     {
      "page": "model/index.html",
@@ -26283,11 +26300,17 @@
    "date": "2026-10-07",
    "status": "pending",
    "status_note": {
-    "zh": "未見原始 FlexA 讀值檔，n = 1。與區塊 3 用的 7.2514 mU mL⁻¹ 是同一次測定但位數不同。",
-    "en": "The raw FlexA reading file was not seen and n = 1. Block 3 quotes the same assay as 7.2514 mU mL-1, to more digits."
+    "zh": "未見原始 FlexA 讀值檔，n = 1。與區塊 3 用的 7.2514 mU mL⁻¹ 是同一次測定但位數不同。\n〔10/14 乾實驗封存核對〕原始 FlexA 檔案仍未看到，狀態不動。封存提供的交叉檢查：8/23 的 permeate 門檻文件算出 30 分鐘、未濃縮 permeate 的 DNPH 定量極限為 3.3 mU/mL，csn 的 3.31 正落在極限上，samyQ 的 7.25 在其上但仍低於可靠定量帶——與頁面的註記一致。驗收門檻 1 mU/mL 也來自同一份文件。",
+    "en": "The raw FlexA reading file was not seen and n = 1. Block 3 quotes the same assay as 7.2514 mU mL-1, to more digits.\n[14 Oct dry lab archive check] The raw FlexA file has still not been seen, so the status does not move. The archive does supply a cross-check: the 23 August permeate threshold dossier computes a 3.3 mU/mL DNPH limit of quantitation for a 30-minute incubation on neat permeate, which is exactly where csn's 3.31 lands, with samyQ's 7.25 above it but still inside the unreliable band, consistent with the page's own annotations. The 1 mU/mL acceptance gate comes from the same dossier."
    },
    "ask": "wet lab",
-   "source": [],
+   "source": [
+    {
+     "label": "DNPH LOQ by incubation time",
+     "path": "2026 iGEM Project Plant Stress/00_Deliverable_Reports/28_ACCD_Permeate_Threshold/ACCD_Permeate_Acceptance_Threshold.md",
+     "where": "section 4"
+    }
+   ],
    "wiki": [
     {
      "page": "model/index.html",
@@ -26415,11 +26438,22 @@
    "date": "",
    "status": "pending",
    "status_note": {
-    "zh": "頁面自述這比 B. subtilis 異源分泌的已發表區間 4 至 200 mg L⁻¹ 的下限再低兩倍。",
-    "en": "The page notes this sits a factor of two below the floor of the published 4 to 200 mg L-1 range for B. subtilis heterologous secretion."
+    "zh": "頁面自述這比 B. subtilis 異源分泌的已發表區間 4 至 200 mg L⁻¹ 的下限再低兩倍。\n〔10/14 乾實驗封存核對〕推導鏈重算無誤：43.0 / 3.4 = 12.65 倍 K_M，即 12.65/13.65 = 92.7% 的 V_max；7.2514 / 0.927 = 7.82 mU/mL；7.82 nmol min⁻¹ mL⁻¹ ÷ 146 min⁻¹ = 53.6 nM 活性位；53.6 nM × 36.5 kDa = 1.96 mg/L。但 36.5 kDa 這個次單元質量本身有爭議（見 WM-025）：用我們構築的 37.636 kDa 會得 2.01 mg/L，用文獻文件的 41 kDa 會得 2.20 mg/L。54 nM 不受影響，mg/L 受影響。",
+    "en": "The page notes this sits a factor of two below the floor of the published 4 to 200 mg L-1 range for B. subtilis heterologous secretion.\n[14 Oct dry lab archive check] The derivation reproduces: 43.0 / 3.4 is 12.65 times K_M, so 12.65/13.65 = 92.7% of V_max; 7.2514 / 0.927 = 7.82 mU/mL; 7.82 nmol min-1 mL-1 divided by 146 min-1 is 53.6 nM of active sites; and 53.6 nM times 36.5 kDa is 1.96 mg/L. The 36.5 kDa subunit mass is itself disputed, see WM-025: our construct's 37.636 kDa gives 2.01 mg/L and the dossier's 41 kDa gives 2.20 mg/L. The 54 nM figure is unaffected, the mg/L figure is not."
    },
    "ask": "",
-   "source": [],
+   "source": [
+    {
+     "label": "arithmetic reproduced 14 Oct",
+     "path": "records/2026-10-14-drylab-consolidation.md",
+     "where": "section 3.1"
+    },
+    {
+     "label": "kinetic constants and subunit mass",
+     "path": "2026 iGEM Project Plant Stress/00_Deliverable_Reports/28_ACCD_Permeate_Threshold/ACCD_Permeate_Acceptance_Threshold.md",
+     "where": "section 1.3"
+    }
+   ],
    "wiki": [
     {
      "page": "model/index.html",
@@ -26450,13 +26484,24 @@
    "value": "",
    "unit": "",
    "date": "",
-   "status": "pending",
+   "status": "conflict",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕K_M = 3.4 ± 0.2 mM 與 k_cat = 146 ± 5 min⁻¹ 已由團隊自己的 ACCD permeate 門檻文件核對（出處 Hontzeas et al. 2004, P. putida UW4）。但次單元質量與寡聚體對不上：該文件用 41 kDa，releaf-model 參數表記我們構築的成熟蛋白為 37,636 Da，頁面寫 36.5 kDa；同一份文件談的是三聚體組裝，頁面寫約 144 kDa 的同源四聚體。需要蛋白組決定一個數字，因為它會動到 mg/L。",
+    "en": "[14 Oct dry lab archive check] K_M = 3.4 +/- 0.2 mM and k_cat = 146 +/- 5 min-1 are confirmed by the team's own ACCD permeate threshold dossier, sourced to Hontzeas et al. 2004 on P. putida UW4. The subunit mass and the oligomer do not match: the dossier uses 41 kDa, the releaf-model parameter table records our construct's mature protein at 37,636 Da and the page says 36.5 kDa; the same dossier describes trimer assembly while the page says a homotetramer of about 144 kDa. The protein team has to pick one, because it moves the mg/L figure."
    },
-   "ask": "",
-   "source": [],
+   "ask": "Protein design team",
+   "source": [
+    {
+     "label": "kinetic backbone, Hontzeas 2004",
+     "path": "2026 iGEM Project Plant Stress/00_Deliverable_Reports/28_ACCD_Permeate_Threshold/ACCD_Permeate_Acceptance_Threshold.md",
+     "where": "section 1.3 and source table row 2"
+    },
+    {
+     "label": "our construct's mature mass",
+     "path": "2026 iGEM Project Plant Stress/Math Model/releaf-model/params/parameters.yaml",
+     "where": "protein.MW_mature"
+    }
+   ],
    "wiki": [
     {
      "page": "model/index.html",
@@ -26489,11 +26534,17 @@
    "date": "",
    "status": "pending",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕反應條件本身仍只在 wiki 上（FlexA 原始檔不在封存裡），但封存有一個值得寫下來的交叉檢查：團隊 8/23 的 ACCD permeate 門檻文件算出標準 DNPH 流程在未濃縮 permeate 上、30 分鐘反應的定量極限是 3.3 mU/mL（15 分鐘是 6.7），並建議至少反應 2 小時。10/7 跑的是 30 分鐘，samyQ 讀 7.25、csn 讀 3.31 mU/mL，正好落在那個極限附近，與頁面「detected, below LOQ」「below LOD」的敘述一致。同一份文件也把 permeate 驗收門檻定在 ≥ 1 mU/mL，所以 samyQ 約為門檻的 7 倍。",
+    "en": "[14 Oct dry lab archive check] The reaction conditions themselves are still wiki-only, since the FlexA raw file is not in the archive, but the archive does supply a cross-check worth writing down. The team's 23 August ACCD permeate threshold dossier computes the standard DNPH protocol's limit of quantitation on neat permeate as 3.3 mU/mL for a 30-minute incubation (6.7 for 15 minutes) and recommends at least 2 hours. The 7 October run was 30 minutes, samyQ read 7.25 and csn read 3.31 mU/mL, which sits right at that limit and is consistent with the page's 'detected, below LOQ' and 'below LOD'. The same dossier sets the permeate acceptance gate at 1 mU/mL or more, so the samyQ result is about 7 times the gate."
    },
    "ask": "",
-   "source": [],
+   "source": [
+    {
+     "label": "assay LOQ table and the 1 mU/mL gate",
+     "path": "2026 iGEM Project Plant Stress/00_Deliverable_Reports/28_ACCD_Permeate_Threshold/ACCD_Permeate_Acceptance_Threshold.md",
+     "where": "sections 0 and 4"
+    }
+   ],
    "wiki": [
     {
      "page": "model/index.html",
@@ -26524,10 +26575,10 @@
    "value": "4.66",
    "unit": "µmol m-2 s-1",
    "date": "",
-   "status": "conflict",
+   "status": "confirmed",
    "status_note": {
-    "zh": "頁面與參考文獻歸給 Castillo-Hair 等人（2019），但 build/model_figures.py 的常數註解寫「Ohlendorf et al. 2019, via the docx」。兩個出處要擇一。",
-    "en": "The page and its reference list credit Castillo-Hair et al. (2019) while the constant in build/model_figures.py is commented 'Ohlendorf et al. 2019, via the docx'. One attribution has to go."
+    "zh": "頁面與參考文獻歸給 Castillo-Hair 等人（2019），但 build/model_figures.py 的常數註解寫「Ohlendorf et al. 2019, via the docx」。兩個出處要擇一。\n〔10/14 乾實驗封存核對〕常數本身已核對：releaf-model 的參數表 level2_reserve 與 7/4 硬體規格凍結都記 Hill n = 1.88 ± 0.16、K½ = 4.66 ± 0.63 µmol m⁻² s⁻¹（526 nm），出處是 Castillo-Hair et al. 2019, Nat. Commun. 10:3099。歸屬衝突因此解決：頁面是對的，錯的是 releaf-wiki/build/model_figures.py:63 的註解「Ohlendorf et al. 2019, via the docx」，改一行即可。E. coli 的 K½ 1.075、n 2.737 在封存裡找不到，仍未核對。",
+    "en": "The page and its reference list credit Castillo-Hair et al. (2019) while the constant in build/model_figures.py is commented 'Ohlendorf et al. 2019, via the docx'. One attribution has to go.\n[14 Oct dry lab archive check] The constants check out: level2_reserve in the releaf-model parameter table and the 4 July hardware spec freeze both carry Hill n = 1.88 +/- 0.16 and K-half = 4.66 +/- 0.63 micromol m-2 s-1 at 526 nm, attributed to Castillo-Hair et al. 2019, Nat. Commun. 10:3099. That resolves the attribution conflict in favour of the page: the error is the comment at releaf-wiki/build/model_figures.py:63, 'Ohlendorf et al. 2019, via the docx', which is a one-line fix. The E. coli values K-half 1.075 and n 2.737 are in no archived file and remain unchecked."
    },
    "ask": "",
    "source": [
@@ -26535,6 +26586,16 @@
      "label": "model_figures.py constants",
      "path": "releaf-wiki/build/model_figures.py",
      "where": "K_CCAS, N_CCAS"
+    },
+    {
+     "label": "CcaSR constants with their source",
+     "path": "2026 iGEM Project Plant Stress/Math Model/releaf-model/params/parameters.yaml",
+     "where": "level2_reserve"
+    },
+    {
+     "label": "hardware spec freeze, 4 July",
+     "path": "2026 iGEM Project Plant Stress/Discord/notebook-build/02_MILESTONE_MAP.md",
+     "where": "BR-3 spec table, CcaSR params"
     }
    ],
    "wiki": [
@@ -26554,8 +26615,8 @@
     }
    ],
    "critical": false,
-   "confirmed_by": "",
-   "confirmed_on": ""
+   "confirmed_by": "Timmy (dry lab archive)",
+   "confirmed_on": "2026-10-14"
   },
   {
    "id": "WM-028",
@@ -26575,13 +26636,24 @@
    "value": "0.015-0.94",
    "unit": "demand f",
    "date": "",
-   "status": "pending",
+   "status": "confirmed",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕以已核對的 K½ = 4.66、n = 1.88 反解 I = K½ (f/(1-f))^(1/n)：f = 0.015 得 0.50 µmol m⁻² s⁻¹（約 62 lux，低於燈的下限），f = 0.94 得 20.1 µmol m⁻² s⁻¹（超過 20 µmol 上限）。兩個邊界都重算得出。",
+    "en": "[14 Oct dry lab archive check] Inverting I = K-half (f/(1-f))^(1/n) with the now-confirmed K-half = 4.66 and n = 1.88 gives 0.50 micromol m-2 s-1 at f = 0.015, about 62 lux and under the lamp floor, and 20.1 micromol m-2 s-1 at f = 0.94, over the 20 micromol ceiling. Both bounds recompute."
    },
    "ask": "",
-   "source": [],
+   "source": [
+    {
+     "label": "Hill constants",
+     "path": "2026 iGEM Project Plant Stress/Math Model/releaf-model/params/parameters.yaml",
+     "where": "level2_reserve"
+    },
+    {
+     "label": "recomputed 14 Oct from the Hill inversion",
+     "path": "records/2026-10-14-drylab-consolidation.md",
+     "where": "section 3.1"
+    }
+   ],
    "wiki": [
     {
      "page": "model/index.html",
@@ -26599,8 +26671,8 @@
     }
    ],
    "critical": false,
-   "confirmed_by": "",
-   "confirmed_on": ""
+   "confirmed_by": "Timmy (dry lab archive)",
+   "confirmed_on": "2026-10-14"
   },
   {
    "id": "WM-029",
@@ -26620,13 +26692,19 @@
    "value": "124",
    "unit": "lux per µmol m-2 s-1",
    "date": "",
-   "status": "pending",
+   "status": "confirmed",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕重算：526 nm 的光子能量 hc/λ = 3.777e-19 J，乘以亞佛加厥數得 0.2274 J µmol⁻¹；明視覺發光效率 683 × 0.80 = 546 lm W⁻¹；0.2274 × 546 = 124.2 lux per µmol m⁻² s⁻¹。與頁面一致。",
+    "en": "[14 Oct dry lab archive check] Recomputed: the photon energy at 526 nm is hc/lambda = 3.777e-19 J, which is 0.2274 J per micromol, and the photopic luminous efficacy is 683 x 0.80 = 546 lm/W, so 0.2274 x 546 = 124.2 lux per micromol m-2 s-1. It matches the page."
    },
    "ask": "",
-   "source": [],
+   "source": [
+    {
+     "label": "recomputed 14 Oct from physical constants",
+     "path": "records/2026-10-14-drylab-consolidation.md",
+     "where": "section 3.1"
+    }
+   ],
    "wiki": [
     {
      "page": "model/index.html",
@@ -26636,8 +26714,8 @@
    ],
    "images": [],
    "critical": false,
-   "confirmed_by": "",
-   "confirmed_on": ""
+   "confirmed_by": "Timmy (dry lab archive)",
+   "confirmed_on": "2026-10-14"
   },
   {
    "id": "WM-030",
@@ -26657,13 +26735,19 @@
    "value": "578",
    "unit": "lux at demand 0.5",
    "date": "",
-   "status": "pending",
+   "status": "confirmed",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕六個需求值全部重算吻合到頁面印出的位數：0.05 → 0.97 / 121；0.1 → 1.45 / 180；0.25 → 2.60 / 322；0.5 → 4.66 / 578；0.75 → 8.36 / 1,037；0.9 → 15.00 / 1,859。用的是已核對的 K½、n 與 124 lux 換算。",
+    "en": "[14 Oct dry lab archive check] All six demand levels recompute to the digits the page prints: 0.05 gives 0.97 and 121; 0.1 gives 1.45 and 180; 0.25 gives 2.60 and 322; 0.5 gives 4.66 and 578; 0.75 gives 8.36 and 1,037; 0.9 gives 15.00 and 1,859, using the confirmed K-half and n and the 124 lux conversion."
    },
    "ask": "",
-   "source": [],
+   "source": [
+    {
+     "label": "recomputed 14 Oct",
+     "path": "records/2026-10-14-drylab-consolidation.md",
+     "where": "section 3.1"
+    }
+   ],
    "wiki": [
     {
      "page": "model/index.html",
@@ -26673,8 +26757,8 @@
    ],
    "images": [],
    "critical": false,
-   "confirmed_by": "",
-   "confirmed_on": ""
+   "confirmed_by": "Timmy (dry lab archive)",
+   "confirmed_on": "2026-10-14"
   },
   {
    "id": "WM-031",
@@ -26739,13 +26823,24 @@
    "value": "105",
    "unit": "min to half-max",
    "date": "",
-   "status": "pending",
+   "status": "confirmed",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕t½ 開燈 105.1 ± 1.5 min、關燈 74.97 ± 0.39 min，與頁面的 105 分鐘與 75 分鐘一致，兩處來源相同（Castillo-Hair 2019）。",
+    "en": "[14 Oct dry lab archive check] t-half on 105.1 +/- 1.5 min and off 74.97 +/- 0.39 min, matching the 105 and 75 minutes on the page, from the same source (Castillo-Hair 2019) in both archived places."
    },
    "ask": "",
-   "source": [],
+   "source": [
+    {
+     "label": "t_half_on / t_half_off",
+     "path": "2026 iGEM Project Plant Stress/Math Model/releaf-model/params/parameters.yaml",
+     "where": "level2_reserve"
+    },
+    {
+     "label": "hardware spec freeze, 4 July",
+     "path": "2026 iGEM Project Plant Stress/Discord/notebook-build/02_MILESTONE_MAP.md",
+     "where": "BR-3 spec table"
+    }
+   ],
    "wiki": [
     {
      "page": "model/index.html",
@@ -26755,8 +26850,8 @@
    ],
    "images": [],
    "critical": false,
-   "confirmed_by": "",
-   "confirmed_on": ""
+   "confirmed_by": "Timmy (dry lab archive)",
+   "confirmed_on": "2026-10-14"
   },
   {
    "id": "WM-033",
@@ -26776,13 +26871,24 @@
    "value": "",
    "unit": "",
    "date": "",
-   "status": "pending",
+   "status": "confirmed",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕底盤與發色團的敘述成立：封存有 ho1+pcyA 的質體檔，參數表也記下 CcaSR 來源論文用 535/672 nm。要注意的是硬體用 520/660 nm，參數表自己標明這個偏移「尚未調和」，頁面若引用波長應該說清楚是論文的還是燈的。",
+    "en": "[14 Oct dry lab archive check] The chassis and chromophore statement holds: the archive contains the ho1 + pcyA plasmid file, and the parameter table records that the CcaSR source paper used 535 / 672 nm. Note that the hardware runs 520 / 660 nm and the parameter table flags that offset as unreconciled, so any wavelength quoted on the page should say whether it is the paper's or the lamp's."
    },
    "ask": "",
-   "source": [],
+   "source": [
+    {
+     "label": "ho1 + pcyA plasmid",
+     "path": "2026 iGEM Project Plant Stress/Codon Optimization/DNA files/pTwist Amp High - Ho1_pcyA.dna",
+     "where": ""
+    },
+    {
+     "label": "wavelength caveat",
+     "path": "2026 iGEM Project Plant Stress/Math Model/releaf-model/params/parameters.yaml",
+     "where": "level2_reserve.caveat"
+    }
+   ],
    "wiki": [
     {
      "page": "model/index.html",
@@ -26797,8 +26903,8 @@
    ],
    "images": [],
    "critical": false,
-   "confirmed_by": "",
-   "confirmed_on": ""
+   "confirmed_by": "Timmy (dry lab archive)",
+   "confirmed_on": "2026-10-14"
   },
   {
    "id": "WM-034",
@@ -26820,11 +26926,17 @@
    "date": "",
    "status": "pending",
    "status_note": {
-    "zh": "批次時間未記錄，所以產速是推得的。倍增時間 28 至 30 分鐘取自文獻。",
-    "en": "Batch duration was not recorded, so the production rate is inferred. The 28 to 30 min doubling time is from the literature."
+    "zh": "批次時間未記錄，所以產速是推得的。倍增時間 28 至 30 分鐘取自文獻。\n〔10/14 乾實驗封存核對〕OD600 3.06 與倍增次數的推算都只在 wiki 上；封存裡能對照的是 releaf-model 的 37 °C 擬合（logistic r = 1.3057 h⁻¹，對應倍增 31.9 分鐘，接近頁面用的 29 分鐘），但那是 2026-06-01 的 40 mL 搖瓶、無質體菌株，不是這一批。批次時間仍未記錄。",
+    "en": "Batch duration was not recorded, so the production rate is inferred. The 28 to 30 min doubling time is from the literature.\n[14 Oct dry lab archive check] The OD600 of 3.06 and the doubling count are wiki-only. What the archive can offer alongside is the releaf-model 37 C fit, a logistic r of 1.3057 h-1 for a 31.9-minute doubling, close to the 29 minutes the page assumes, but that fit is a 40 mL shaken tube of plasmid-free cells from 1 June 2026, not this batch. The batch duration is still unrecorded."
    },
    "ask": "wet lab",
-   "source": [],
+   "source": [
+    {
+     "label": "37 C growth fit",
+     "path": "2026 iGEM Project Plant Stress/Math Model/releaf-model/reports/growth.md",
+     "where": "Batch runs table"
+    }
+   ],
    "wiki": [
     {
      "page": "model/index.html",
@@ -26894,8 +27006,8 @@
    "date": "",
    "status": "confirmed",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕補一筆：來源論文擬合的 MEFL 錨點記在 releaf-model 參數表為 y0 = 1,997.6、Δy = 106,740.5（ON 漸近線約 108,738 MEFL），而圖上用的是 1,500 與 30,000。圖已標明未測量，所以這只是外觀問題，但熟悉該論文的評審會注意到。",
+    "en": "[14 Oct dry lab archive check] One addition: the MEFL anchors fitted in the source paper are recorded in the releaf-model parameter table as y0 = 1,997.6 and dy = 106,740.5, an ON asymptote near 108,738 MEFL, while the figure uses 1,500 and 30,000. The figure is already labelled as unmeasured so this is cosmetic, but a judge who knows the paper will notice."
    },
    "ask": "",
    "source": [
@@ -26903,13 +27015,18 @@
      "label": "model_figures.py fig_promoter",
      "path": "releaf-wiki/build/model_figures.py",
      "where": "fig_promoter"
+    },
+    {
+     "label": "fitted MEFL anchors",
+     "path": "2026 iGEM Project Plant Stress/Math Model/releaf-model/params/parameters.yaml",
+     "where": "level2_reserve.y0 / dy"
     }
    ],
    "wiki": [],
    "images": [],
    "critical": false,
-   "confirmed_by": "",
-   "confirmed_on": ""
+   "confirmed_by": "Timmy (dry lab archive)",
+   "confirmed_on": "2026-10-14"
   },
   {
    "id": "WM-037",
@@ -26968,11 +27085,17 @@
    "date": "",
    "status": "conflict",
    "status_note": {
-    "zh": "同一頁同時寫 4,082 L/ha（內文、摘要、結論）與 4,008 L/ha（三張圖與表格）。頁面解釋 4,008 是冠層修正取 2.4、4,082 是未取整的 2.444，相差 1.8%，但兩個數字仍並列在頁面上。待問清單第 25 題。",
-    "en": "The same page carries 4,082 L/ha in the prose, abstract and conclusion and 4,008 L/ha in the figures and tables. The page explains 4,008 uses a canopy correction rounded to 2.4 while 4,082 uses the unrounded 2.444, 1.8% apart, but both numbers still stand side by side. Open question 25."
+    "zh": "同一頁同時寫 4,082 L/ha（內文、摘要、結論）與 4,008 L/ha（三張圖與表格）。頁面解釋 4,008 是冠層修正取 2.4、4,082 是未取整的 2.444，相差 1.8%，但兩個數字仍並列在頁面上。待問清單第 25 題。\n〔10/14 乾實驗封存核對〕兩個數字的來源都重算清楚了：1,670 L/ha × 2.444 = 4,081.5（頁面的 4,082），1,670 × 2.4 = 4,008。差距 1.8% 就是修正係數取捨位數的差別，與頁面的解釋一致。要用哪一個是編輯決定，不是資料爭議。",
+    "en": "The same page carries 4,082 L/ha in the prose, abstract and conclusion and 4,008 L/ha in the figures and tables. The page explains 4,008 uses a canopy correction rounded to 2.4 while 4,082 uses the unrounded 2.444, 1.8% apart, but both numbers still stand side by side. Open question 25.\n[14 Oct dry lab archive check] Both numbers reproduce: 1,670 L/ha times 2.444 is 4,081.5, the page's 4,082, and 1,670 times 2.4 is 4,008. The 1.8% gap is exactly the rounding of the correction factor, as the page explains. Which one to carry is an editorial decision, not a data disagreement."
    },
    "ask": "Timmy / Ethan",
-   "source": [],
+   "source": [
+    {
+     "label": "arithmetic reproduced 14 Oct",
+     "path": "records/2026-10-14-drylab-consolidation.md",
+     "where": "section 3.1"
+    }
+   ],
    "wiki": [
     {
      "page": "model/index.html",
@@ -27065,11 +27188,17 @@
    "date": "",
    "status": "pending",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕算術重算吻合：1,670 L/ha × 7.2514 mU/mL = 12.1 kU/ha。兩個輸入（1,670 L/ha 與效價）都還是 pending。",
+    "en": "[14 Oct dry lab archive check] The arithmetic reproduces: 1,670 L/ha times 7.2514 mU/mL is 12.1 kU/ha. Both inputs, the 1,670 L/ha rate and the titre, are themselves still pending."
    },
    "ask": "",
-   "source": [],
+   "source": [
+    {
+     "label": "arithmetic reproduced 14 Oct",
+     "path": "records/2026-10-14-drylab-consolidation.md",
+     "where": "section 3.1"
+    }
+   ],
    "wiki": [
     {
      "page": "model/index.html",
@@ -27102,11 +27231,17 @@
    "date": "",
    "status": "pending",
    "status_note": {
-    "zh": "頁面自承這是模型而非量測，是區塊 3 唯一一個被建模的步驟，也是最大的不確定來源。直接量稻葉面積與噴液捕捉率才能取代它。",
-    "en": "The page states this is a model and not a measurement, the only modelled step in Block 3 and the widest uncertainty in it. Measuring rice leaf area and spray capture directly would replace it."
+    "zh": "頁面自承這是模型而非量測，是區塊 3 唯一一個被建模的步驟，也是最大的不確定來源。直接量稻葉面積與噴液捕捉率才能取代它。\n〔10/14 乾實驗封存核對〕修正係數的算術重算吻合：葉面積指數 4.5 / 0.115 = 39.1 倍葉面積，除以 16 倍的噴灑攔截 = 2.444。頁面的 2.44 來自這裡。但 LAI、攔截倍數與每葉面積等效劑量這三個前提都是模型假設，頁面自己也說這是 Block 3 唯一的模型步驟，所以維持 pending。",
+    "en": "The page states this is a model and not a measurement, the only modelled step in Block 3 and the widest uncertainty in it. Measuring rice leaf area and spray capture directly would replace it.\n[14 Oct dry lab archive check] The correction's arithmetic reproduces: a leaf area index of 4.5 against 0.115 is 39.1 times the leaf area, divided by 16 times the spray capture gives 2.444, which is where the page's 2.44 comes from. The leaf area index, the capture ratio and the equal-dose-per-leaf-area premise are all modelled, as the page itself says this is the only modelled step in Block 3, so it stays pending."
    },
    "ask": "wet lab",
-   "source": [],
+   "source": [
+    {
+     "label": "arithmetic reproduced 14 Oct",
+     "path": "records/2026-10-14-drylab-consolidation.md",
+     "where": "section 3.1"
+    }
+   ],
    "wiki": [
     {
      "page": "model/index.html",
@@ -27194,11 +27329,17 @@
    "date": "",
    "status": "pending",
    "status_note": {
-    "zh": "施用次數建立在暫定的釋放規則與未量測的保護持續時間上，頁面自承是歷史模擬。",
-    "en": "The pass counts are historical simulations under a provisional trigger and an unmeasured protection lifetime, as the page states."
+    "zh": "施用次數建立在暫定的釋放規則與未量測的保護持續時間上，頁面自承是歷史模擬。\n〔10/14 乾實驗封存核對〕四個基準的體積都重算吻合（以 4,008 L/ha 計）：3.28 → 13,146；9 → 36,072；12 → 48,096；17 → 68,136。施用次數本身是歷史模擬，觸發規則與保護期都未測量。",
+    "en": "The pass counts are historical simulations under a provisional trigger and an unmeasured protection lifetime, as the page states.\n[14 Oct dry lab archive check] All four bases reproduce at 4,008 L/ha: 3.28 gives 13,146, 9 gives 36,072, 12 gives 48,096 and 17 gives 68,136. The pass counts themselves are historical simulations under an unmeasured trigger and protection lifetime."
    },
    "ask": "",
-   "source": [],
+   "source": [
+    {
+     "label": "arithmetic reproduced 14 Oct",
+     "path": "records/2026-10-14-drylab-consolidation.md",
+     "where": "section 3.1"
+    }
+   ],
    "wiki": [
     {
      "page": "model/index.html",
@@ -27236,11 +27377,17 @@
    "date": "",
    "status": "conflict",
    "status_note": {
-    "zh": "表格用 4,008 L/ha，內文與結論用 4,082 L/ha。見同組的 4,082 條目。",
-    "en": "The table uses 4,008 L/ha while the prose and conclusion use 4,082 L/ha. See the 4,082 fact in this group."
+    "zh": "表格用 4,008 L/ha，內文與結論用 4,082 L/ha。見同組的 4,082 條目。\n〔10/14 乾實驗封存核對〕表格一列一列重算吻合：4,008 L/ha 對應修正係數 2.4，而正文的 4,082 對應未取捨的 2.444。單次施用稀釋成每公頃 400 L 槽液的部分仍只在頁面上。",
+    "en": "The table uses 4,008 L/ha while the prose and conclusion use 4,082 L/ha. See the 4,082 fact in this group.\n[14 Oct dry lab archive check] The table reproduces row by row: 4,008 L/ha corresponds to a correction factor of 2.4 while the prose's 4,082 corresponds to the unrounded 2.444. The dilution of one application into 400 L of tank mix per hectare is still wiki-only."
    },
    "ask": "Timmy / Ethan",
-   "source": [],
+   "source": [
+    {
+     "label": "arithmetic reproduced 14 Oct",
+     "path": "records/2026-10-14-drylab-consolidation.md",
+     "where": "section 3.1"
+    }
+   ],
    "wiki": [
     {
      "page": "model/index.html",
@@ -27273,11 +27420,17 @@
    "date": "",
    "status": "pending",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕算術重算吻合：12 × 4,008 = 48,096 L，槽液 12 × 400 = 4,800 L。2007 與 2023 兩季有兩個窗口的判定來自同一組歷史模擬，未獨立核對。",
+    "en": "[14 Oct dry lab archive check] The arithmetic reproduces: 12 times 4,008 is 48,096 L of culture and 12 times 400 is 4,800 L of tank mix. That 2007 and 2023 each had two stress windows comes from the same historical simulation and was not independently checked."
    },
    "ask": "",
-   "source": [],
+   "source": [
+    {
+     "label": "arithmetic reproduced 14 Oct",
+     "path": "records/2026-10-14-drylab-consolidation.md",
+     "where": "section 3.1"
+    }
+   ],
    "wiki": [
     {
      "page": "model/index.html",
@@ -27310,11 +27463,17 @@
    "date": "",
    "status": "pending",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕換算重算吻合：7,251.4 mU 每公升培養液 ÷ 34,807 mU 每反應器公升日 = 0.2083 反應器公升日/公升。各機組的前置時間則取決於未記錄的實際容積與該效價。",
+    "en": "[14 Oct dry lab archive check] The conversion reproduces: 7,251.4 mU per litre of culture divided by 34,807 mU per reactor-litre-day is 0.2083 reactor-litre-days per litre. The per-fleet lead times then depend on the unrecorded working volumes and on that titre."
    },
    "ask": "",
-   "source": [],
+   "source": [
+    {
+     "label": "arithmetic reproduced 14 Oct",
+     "path": "records/2026-10-14-drylab-consolidation.md",
+     "where": "section 3.1"
+    }
+   ],
    "wiki": [
     {
      "page": "model/index.html",
@@ -27389,11 +27548,17 @@
    "date": "",
    "status": "pending",
    "status_note": {
-    "zh": "效力 0.28 的來源未說明，與區塊 1 的 0.58 不一致。待問清單第 27 題。",
-    "en": "The source of efficacy 0.28 is not given and it disagrees with Block 1's 0.58. Open question 27."
+    "zh": "效力 0.28 的來源未說明，與區塊 1 的 0.58 不一致。待問清單第 27 題。\n〔10/14 乾實驗封存核對〕回收年數全部重算吻合，前提是 NT$30,000 為每機組單價而非十台總價：普通稻田 300,000 ÷ 4,635 = 64.7 年、300,000 ÷ 7,824 = 38.3 年；鹽化地 300,000 ÷ 126,967 = 2.4 年、50 台 1,500,000 ÷ 126,967 = 11.8 年、效價 1.00 時 300,000 ÷ 444,724 = 0.7 年。頁面若寫「10 units at NT$30,000」容易被讀成總價，建議寫成每台。另外鹽化地的年值隨效價近乎線性（0.28 → 1.00 為 3.50 倍），普通稻田卻只有 1.69 倍，頁面沒有說明這個上限從何而來。效價 0.28 的出處仍然沒有，且與 Block 1 的 0.58 不一致（第 27 題）。",
+    "en": "The source of efficacy 0.28 is not given and it disagrees with Block 1's 0.58. Open question 27.\n[14 Oct dry lab archive check] Every payback year reproduces, provided NT$30,000 is the price per unit and not the total for ten: ordinary paddy 300,000 / 4,635 = 64.7 years and 300,000 / 7,824 = 38.3 years; salt-affected 300,000 / 126,967 = 2.4 years, 1,500,000 / 126,967 = 11.8 years for 50 units, and 300,000 / 444,724 = 0.7 years at efficacy 1.00. '10 units at NT$30,000' reads as a total, so it is worth writing as a per-unit price. Separately, the salt-affected annual value scales almost linearly with efficacy (3.50x from 0.28 to 1.00) while ordinary paddy only moves 1.69x, and the page does not say where that cap comes from. The source of efficacy 0.28 is still missing and disagrees with Block 1's 0.58, open question 27."
    },
    "ask": "Timmy / Ethan",
-   "source": [],
+   "source": [
+    {
+     "label": "arithmetic reproduced 14 Oct",
+     "path": "records/2026-10-14-drylab-consolidation.md",
+     "where": "section 3.1"
+    }
+   ],
    "wiki": [
     {
      "page": "model/index.html",
@@ -27468,11 +27633,17 @@
    "date": "",
    "status": "pending",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕38.3 年重算吻合（300,000 ÷ 7,824）。但「5 年回收需要效價 12.8」這個數字無法從表上任何一組數字重建：以效價 1.00 的年值回推是 60,000 ÷ 7,824 = 7.7，以 NT$4,429 的可處理損失回推是 60,000 ÷ 4,429 = 13.6。結論方向（不可能而非困難）成立，但 12.8 這個數字需要 Ethan 說明是哪一條算式。",
+    "en": "[14 Oct dry lab archive check] The 38.3 years reproduces as 300,000 / 7,824. The claim that a five-year payback needs an efficacy of 12.8 does not reproduce from any combination of the printed numbers: working back from the efficacy-1.00 annual value gives 60,000 / 7,824 = 7.7, and working back from the NT$4,429 of addressable loss gives 60,000 / 4,429 = 13.6. The direction of the conclusion, impossible rather than hard, holds, but the 12.8 itself needs Ethan to say which chain produced it."
    },
-   "ask": "",
-   "source": [],
+   "ask": "Ethan",
+   "source": [
+    {
+     "label": "arithmetic reproduced 14 Oct",
+     "path": "records/2026-10-14-drylab-consolidation.md",
+     "where": "section 3.1"
+    }
+   ],
    "wiki": [
     {
      "page": "model/index.html",
@@ -30614,13 +30785,29 @@
    "value": "2-31",
    "unit": "codons",
    "date": "",
-   "status": "pending",
+   "status": "confirmed",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕已核對 dry lab 原始檔：v3 設計的可編輯訊號肽密碼子索引為 1–30，即第 2 到 31 個密碼子，與頁面一致；Window A 的組成（RS 28 + MF001 24 + 間隔 1 + SamyQ 93 + CDS 前 90 nt）也與 REPORT.md 相同。但「8,000 個隨機同義候選」在檔案中找不到：round 2 各組的合法候選數為 BoPep4 33,395、LEA14 34,342、ACCD 40,899、AmilCP 39,091，而 sharp 最佳化器 v2 摺疊 4,437 個結構、v3 摺疊 110,040 個。頁面上的 8,000 需要改成檔案裡的數字。",
+    "en": "[14 Oct dry lab archive check] Checked against the dry lab archive: the v3 design's editable signal-peptide codon indices are 1-30, that is codons 2 to 31, as the page says, and Window A is composed exactly as REPORT.md states (RS 28 + MF001 24 + spacer 1 + SamyQ 93 + first 90 nt of the CDS). The library of 8,000 random synonymous candidates is not in any file: round 2 enumerated 33,395 legal candidates for BoPep4, 34,342 for LEA14, 40,899 for ACCD and 39,091 for AmilCP, and the sharp optimiser folded 4,437 structures for v2 and 110,040 for v3. The 8,000 on the page should be replaced with the archived counts."
    },
    "ask": "",
-   "source": [],
+   "source": [
+    {
+     "label": "sharp optimiser results, v3 editable SP codons",
+     "path": "2026 iGEM Project Plant Stress/Codon Optimization/DNA files/vienna_rs_analysis/codon_opt_sharp_results.json",
+     "where": "designs.v3.sp_editable_idx"
+    },
+    {
+     "label": "Window A definition and round 1 diagnostic",
+     "path": "2026 iGEM Project Plant Stress/Codon Optimization/DNA files/vienna_rs_analysis/REPORT.md",
+     "where": "Method / Round 1"
+    },
+    {
+     "label": "round 2 legal-candidate counts",
+     "path": "2026 iGEM Project Plant Stress/Codon Optimization/DNA files/vienna_rs_analysis/round2_tables.txt",
+     "where": "per-group header lines"
+    }
+   ],
    "wiki": [
     {
      "page": "protein-design/methodology/index.html",
@@ -30635,8 +30822,8 @@
    ],
    "images": [],
    "critical": false,
-   "confirmed_by": "",
-   "confirmed_on": ""
+   "confirmed_by": "Timmy (dry lab archive)",
+   "confirmed_on": "2026-10-14"
   },
   {
    "id": "WM-130",
@@ -30656,13 +30843,29 @@
    "value": "",
    "unit": "",
    "date": "",
-   "status": "pending",
+   "status": "confirmed",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕四個貨物序列（BoPep4、LEA14、ACCD、AmilCP）在 round 1 與 round 2 都完整跑過，每組都有 Castillo 低 GC/A>U 貪婪對照與依最高 balance 選出的最佳候選，並各有一張圖。",
+    "en": "[14 Oct dry lab archive check] All four cargos (BoPep4, LEA14, ACCD, AmilCP) were run through rounds 1 and 2, each with the Castillo low-GC/A>U greedy control and a best-by-balance candidate, and each has its own figure."
    },
    "ask": "",
-   "source": [],
+   "source": [
+    {
+     "label": "round 2 tables, greedy and best-by-balance per group",
+     "path": "2026 iGEM Project Plant Stress/Codon Optimization/DNA files/vienna_rs_analysis/round2_tables.txt",
+     "where": ""
+    },
+    {
+     "label": "figure captions for the four groups",
+     "path": "2026 iGEM Project Plant Stress/Codon Optimization/DNA files/vienna_rs_analysis/captions.txt",
+     "where": ""
+    },
+    {
+     "label": "per-group figures",
+     "path": "2026 iGEM Project Plant Stress/Codon Optimization/DNA files/vienna_rs_analysis",
+     "where": "fig_BoPep4/LEA14/ACCD/AmilCP.svg"
+    }
+   ],
    "wiki": [
     {
      "page": "protein-design/methodology/index.html",
@@ -30672,8 +30875,8 @@
    ],
    "images": [],
    "critical": false,
-   "confirmed_by": "",
-   "confirmed_on": ""
+   "confirmed_by": "Timmy (dry lab archive)",
+   "confirmed_on": "2026-10-14"
   },
   {
    "id": "WM-131",
@@ -31902,11 +32105,27 @@
    "date": "",
    "status": "conflict",
    "status_note": {
-    "zh": "三頁的說法互相矛盾，且 MD 頁內部自相矛盾。需要問 wet lab 實際訂的是哪一種構築。待問清單第 37 題。",
-    "en": "The three pages contradict each other and the MD page contradicts itself. The wet lab has to say which construct was actually ordered. Open question 37."
+    "zh": "三頁的說法互相矛盾，且 MD 頁內部自相矛盾。需要問 wet lab 實際訂的是哪一種構築。待問清單第 37 題。\n〔10/14 乾實驗封存核對〕封存檔決定了六月與七月訂的構築：純化標籤在 C 端。run_sharp_opt.py 的 build_base_cds 是 mature + CATCATCATCATCATCAT + TAA，order_rows.json 裡每一條全長序列都以 ...CATCATCATCATCATCATTAA 結尾，releaf-model 的參數表也把成熟蛋白記為 Csn 切除後的 ACCD + 6xHis（37,636 Da）。若 8 月 16 日之後真的把標籤改到 N 端，封存裡沒有任何檔案記錄那一批。問題因此縮小成一句：8/16 之後實際訂的是哪一種。",
+    "en": "The three pages contradict each other and the MD page contradicts itself. The wet lab has to say which construct was actually ordered. Open question 37.\n[14 Oct dry lab archive check] The archive settles what was ordered in June and July: the purification tag is C-terminal. build_base_cds in run_sharp_opt.py is mature + CATCATCATCATCATCAT + TAA, every full-length sequence in order_rows.json ends ...CATCATCATCATCATCATTAA, and the releaf-model parameter table records the mature protein as Csn-cleaved ACCD plus 6xHis at 37,636 Da. If the tag really moved to the N terminus after 16 August, no file in the archive records that order. The open question narrows to one sentence: which construct was actually ordered after 16 August."
    },
    "ask": "wet lab",
-   "source": [],
+   "source": [
+    {
+     "label": "His6 appended after the mature peptide",
+     "path": "2026 iGEM Project Plant Stress/Codon Optimization/DNA files/vienna_rs_analysis/run_sharp_opt.py",
+     "where": "HIS6_DNA / build_base_cds"
+    },
+    {
+     "label": "ordered full-length sequences",
+     "path": "2026 iGEM Project Plant Stress/Codon Optimization/DNA files/vienna_rs_analysis/order_rows.json",
+     "where": "full_seq tails"
+    },
+    {
+     "label": "construct mass as built",
+     "path": "2026 iGEM Project Plant Stress/Math Model/releaf-model/params/parameters.yaml",
+     "where": "protein.MW_mature"
+    }
+   ],
    "wiki": [
     {
      "page": "peptide-design/index.html",
@@ -32561,13 +32780,29 @@
    "value": "0.528",
    "unit": "bottleneck J",
    "date": "",
-   "status": "pending",
+   "status": "confirmed",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕整條敘述都對上了原始檔。ho1 參考 0.6809；野生型 J = 0.0666（start+15 0.3957、SD core 0.0666）；v2 最佳 J = 0.5280，start+15 0.7569，CAI 0.7786；第一版最佳化器「start+15 0.911、SD core 0.050」就是 round 2 BoPep4 的第 1 名變體；「只優化密碼子使用」對應 max-CAI 起始序列 CAI 0.879、J 0.0543（野生型 CAI 0.886）。唯一沒對上的是「約 50,000 次同義抽樣」：檔案裡的合法候選數是 33,395 到 40,899，sharp 最佳化器則是確定性下降、v2 共摺疊 4,437 個結構並認證為局部最佳。",
+    "en": "[14 Oct dry lab archive check] Every number in this statement reproduces from the archive. ho1 reference 0.6809; wild type J = 0.0666 (start+15 0.3957, SD core 0.0666); the v2 best J = 0.5280 at start+15 0.7569 and CAI 0.7786; the first optimiser's start accessibility 0.911 with an SD core of 0.050 is round 2's top-ranked BoPep4 variant; and optimising codon usage alone is the max-CAI base sequence at CAI 0.879 with J = 0.0543 (wild type CAI 0.886). The one clause that does not reproduce is the roughly 50,000 synonymous draws: the archived legal-candidate counts are 33,395 to 40,899, and the sharp optimiser is a deterministic descent that folded 4,437 structures for v2 and certified a local optimum."
    },
    "ask": "",
-   "source": [],
+   "source": [
+    {
+     "label": "sharp optimiser results and audit",
+     "path": "2026 iGEM Project Plant Stress/Codon Optimization/DNA files/vienna_rs_analysis/codon_opt_sharp_results.json",
+     "where": "refs.WT, designs.v2.best"
+    },
+    {
+     "label": "optimiser run log",
+     "path": "2026 iGEM Project Plant Stress/Codon Optimization/DNA files/vienna_rs_analysis/sharp_opt.log",
+     "where": "[v2] lines"
+    },
+    {
+     "label": "round 2 ranked variants",
+     "path": "2026 iGEM Project Plant Stress/Codon Optimization/DNA files/vienna_rs_analysis/round2_tables.txt",
+     "where": "BoPep4 block, variant 1"
+    }
+   ],
    "wiki": [
     {
      "page": "peptide-design/index.html",
@@ -32585,8 +32820,8 @@
     }
    ],
    "critical": false,
-   "confirmed_by": "",
-   "confirmed_on": ""
+   "confirmed_by": "Timmy (dry lab archive)",
+   "confirmed_on": "2026-10-14"
   },
   {
    "id": "WM-176",
@@ -32608,11 +32843,22 @@
    "date": "",
    "status": "pending",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕訊號肽篩選的輸出檔（l1_sp_results.json）不在這份專案封存裡，它留在已不存在的運算工作區（~/software/haddock-runs/...），所以 n 區電荷 +4 與疏水核心 1.65 無法核對。封存裡有的是設計簡報：AprE 屬於 B. subtilis 最強的分泌訊號肽之一、AmyE 是標準高分泌對照，與頁面的排序方向一致；AprE 換肽版本也真的跑過 sharp 最佳化（J = 0.715）。14 Oct 已搜尋兩個專案資料夾，不必重搜。",
+    "en": "[14 Oct dry lab archive check] The signal-peptide screen output (l1_sp_results.json) is not in this archive; it stayed in the compute workspace (~/software/haddock-runs/...) which no longer exists on this machine, so the n-region charge of +4 and the hydrophobic core mean of 1.65 cannot be checked. What the archive does hold is the design brief, where AprE is among the strongest B. subtilis secretion signal peptides and AmyE is the canonical high-secretion benchmark, consistent with the ordering on the page, and the AprE swap was genuinely run through the sharp optimiser (J = 0.715). Both project folders were searched on 14 October; there is no need to search again."
    },
    "ask": "",
-   "source": [],
+   "source": [
+    {
+     "label": "signal-peptide panel rationale",
+     "path": "2026 iGEM Project Plant Stress/Haddock/BoPep4-secretion-brief.md",
+     "where": "Axis A, SP short list"
+    },
+    {
+     "label": "AprE swap result",
+     "path": "2026 iGEM Project Plant Stress/Codon Optimization/DNA files/vienna_rs_analysis/codon_opt_sharp_results.json",
+     "where": "designs.AprE"
+    }
+   ],
    "wiki": [
     {
      "page": "peptide-design/index.html",
@@ -32643,13 +32889,29 @@
    "value": "7",
    "unit": "adenines",
    "date": "",
-   "status": "pending",
+   "status": "conflict",
    "status_note": {
-    "zh": "",
-    "en": ""
+    "zh": "〔10/14 乾實驗封存核對〕原始序列是八個連續腺嘌呤，不是七個。野生型成熟 BoPep4 CDS（69 nt）第 18 到 25 個核苷酸為 GGATC-AAAAAAAA-GACC；最佳化器自己的限制是同聚物最多 4。頁面上的「七個」需要改成八個。第二句話成立：已發表的低 GC/A>U 貪婪啟發式作為文獻對照跑時，讓 LEA14 比它自己的野生型更差（SD core 0.357 → 0.078，balance 0.895 → 0.747）。",
+    "en": "[14 Oct dry lab archive check] The run is eight adenines, not seven. Nucleotides 18 to 25 of the 69 nt wild-type mature BoPep4 CDS read GGATC-AAAAAAAA-GACC, and the optimiser's own constraint is a homopolymer maximum of 4. The seven on the page has to become eight. The second clause stands: run as a literature control, the published low-GC/A>U greedy heuristic made LEA14 worse than its own wild type, SD core 0.357 to 0.078 and balance 0.895 to 0.747."
    },
-   "ask": "",
-   "source": [],
+   "ask": "Peptide design team",
+   "source": [
+    {
+     "label": "wild-type mature CDS",
+     "path": "2026 iGEM Project Plant Stress/Codon Optimization/DNA files/vienna_rs_analysis/codon_opt_sharp_results.json",
+     "where": "wt.mature_dna"
+    },
+    {
+     "label": "homopolymer constraint",
+     "path": "2026 iGEM Project Plant Stress/Codon Optimization/DNA files/vienna_rs_analysis/codon_opt_sharp_results.json",
+     "where": "constants.homopolymer_max"
+    },
+    {
+     "label": "greedy control on LEA14",
+     "path": "2026 iGEM Project Plant Stress/Codon Optimization/DNA files/vienna_rs_analysis/round2_tables.txt",
+     "where": "LEA14 block, WT and GR rows"
+    }
+   ],
    "wiki": [
     {
      "page": "peptide-design/index.html",
