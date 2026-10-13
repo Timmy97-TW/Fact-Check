@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="zh-Hant">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>ReLeaf Fact-Check</title>
+<link rel="stylesheet" href="assets/app.css">
+</head>
+<body>
+<header class="top">
+  <div class="top-in">
+    <a class="brand" href="#overview"><span class="dot"></span>ReLeaf <b>Fact-Check</b></a>
+    <div class="top-right">
+      <span class="freeze" id="freeze"></span>
+      <label class="who"><span data-i="yourName"></span>
+        <input id="who" type="text" autocomplete="name" maxlength="40">
+      </label>
+      <div class="seg" id="lang" role="group" aria-label="Language">
+        <button data-lang="zh">中文</button><button data-lang="en">EN</button>
+      </div>
+      <button class="btn primary" id="exportBtn"></button>
+    </div>
+  </div>
+  <nav class="tabs" id="tabs"></nav>
+</header>
+
+<main id="main"></main>
+
+<footer class="foot"><span id="ver"></span></footer>
+
+<div class="sheet" id="sheet" hidden><div class="sheet-card" id="sheetCard" role="dialog" aria-modal="true"></div></div>
+<div class="lightbox" id="lightbox" hidden><img alt=""><p></p></div>
+<div class="toast" id="toast" hidden></div>
+
+<script>
+/* always fetch the newest data, then start the app */
+(function (list) {
+  (function next() {
+    if (!list.length) return;
+    var s = document.createElement('script'); s.src = list.shift() + '?t=' + Date.now(); s.onload = next; document.body.appendChild(s);
+  })();
+})(['data/facts.js', 'assets/app.js']);
+</script>
+</body>
+</html>
