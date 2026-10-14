@@ -107,5 +107,44 @@
     "en": "Full write-up, the morning ask list and the wiki edit list: records/2026-10-14-wetlab-pass.md. The nine per-area reports and the applied patches are in records/2026-10-14-wetlab/."
    }
   ]
+ },
+ {
+  "date": "2026-10-14",
+  "editor": "Timmy (Discord record)",
+  "file": "records/2026-10-14-discord-pass.md",
+  "changes": [
+   {
+    "zh": "Discord 紀錄核對（GEMS-Taiwan iGEM 2026 伺服器 51 個頻道與討論串共 6,001 則訊息，10/14 抓取；另加 10/7 抓取的 Research 伺服器 987 則）：753 筆未決事實全部比對，315 筆更新，41 筆改為 confirmed，6 筆由 pending 改為 conflict，268 筆補上 Discord 註記與來源但狀態不變。",
+    "en": "Discord record check over 6,001 messages in 51 channels and threads of the GEMS-Taiwan iGEM 2026 server, pulled 14 October, plus 987 messages of the Research server pulled 7 October: all 753 unresolved facts compared, 315 updated, 41 moved to confirmed, 6 moved from pending to conflict, and 268 annotated with what Discord shows and its source while keeping their status."
+   },
+   {
+    "zh": "confirmed 的判準：負責該項工作的成員、組長或指導老師在 Discord 上寫出同一個數值、單位、日期與對象，並附逐字引文；或數值出自該成員貼出的原始資料檔（運轉記錄 CSV、OD 工作簿、模型報告），且由套用者重新打開檔案讀過。計畫與預告不算，只能從照片估計的值不算。每句引文都經程式比對為 Discord 原文的子字串。",
+    "en": "Rule used for confirmed: the member who did the work, a lead or an instructor wrote the same value, unit, date and object on Discord, quoted verbatim; or the value sits in a raw data file that member posted (run log CSV, OD workbook, model report) and the file was reopened and read again before applying. Plans and announcements do not count, and neither do values that would have to be estimated from a photo. Every quote was machine-checked as a substring of the Discord text."
+   },
+   {
+    "zh": "第 4 次運轉的原始紀錄在 Discord 上（Chars 於 10/9 貼出兩個 CSV）：WW-120、WW-126、WW-128、WW-129 逐位數確認，Results 的 102.4 h 與 Engineering 的 53 h 22 min 是同一次運轉。WW-130 改為 conflict：氣泡剔除率並非全程 0%，12,259 個 window 中有 4,374 個非零，最高 42.9%。",
+    "en": "The run 4 raw logs are on Discord, two CSV files Chars posted on 9 October: WW-120, WW-126, WW-128 and WW-129 confirm to the digit, and the 102.4 h on Results and the 53 h 22 min on Engineering are one run. WW-130 moves to conflict: bubble rejection did not stay at 0%, it is non-zero in 4,374 of 12,259 windows with a maximum of 42.9%."
+   },
+   {
+    "zh": "9/19 的 LPA 培養實驗確實跑過（WH-120、WH-125、WH-127、WH-129、WH-277 confirmed；WW-025 維持 conflict 並寫明）：取樣點 2、4、6、8、24 h，24 h 讀值 0.969 到 1.083，最強綠光組的平台最高，Digital Twin 與 Measurement 的強弱標籤寫反。",
+    "en": "The 19 September LPA culture run did happen (WH-120, WH-125, WH-127, WH-129 and WH-277 confirmed; WW-025 stays conflict with the detail written out): sampling at 2, 4, 6, 8 and 24 h, 24 h readings from 0.969 to 1.083, and the highest-green arm has the highest plateau, so Digital Twin and Measurement have the weak and high labels swapped."
+   },
+   {
+    "zh": "其他敲定的衝突：流通比色管光徑是 2 mm 不是 0.2 mm（WH-187）；壓力傳感器是電壓輸出（WH-174）；中空纖維孔徑 0.2 µm，Entrepreneurship 的 0.22 µm 有誤（WP-121）；模組 C 定序的是 C6 與 C9（註記於 WW-075）；S15A 與 G17A 已在 Level 0 定序成功（WW-201）；WB800 電轉成功（WW-205）；Brophy 會議是 4/18、陳文亮教授是 4/10（WP-008、WP-005）；張嘉修教授羅馬拼音為 Chang Jo-Shu（WP-013）。",
+    "en": "Other conflicts settled: the flow cuvette path is 2 mm, not 0.2 mm (WH-187); the pressure transducers are voltage output (WH-174); the hollow-fibre pore size is 0.2 µm and Entrepreneurship's 0.22 µm is wrong (WP-121); S15A and G17A are sequence-confirmed at Level 0 (WW-201); electroporation into WB800 succeeded (WW-205); the Brophy meeting was 18 April and Prof. Chen Wen-Liang 10 April (WP-008, WP-005); Prof. Chang's romanisation is Chang Jo-Shu (WP-013)."
+   },
+   {
+    "zh": "新增的 conflict：國中課程是 7/2 不是 9/2（WP-052）；高中問卷 Q4 合成生物學是 20% → 82%，93% 屬於 Q5（WP-066）；9/16 的線上訪談對象是陳可為先生（WP-043）；第 3 次運轉的泵故障在 7/31（WH-243）；OD600 時間序列確實存在（WW-074）。",
+    "en": "New conflicts: the junior high lesson was 2 July, not 2 September (WP-052); high school survey Q4 on synthetic biology went from 20% to 82%, and the 93% belongs to Q5 (WP-066); the 16 September online interview was with Mr. Chen Ke-Wei (WP-043); the run 3 pump failure falls on 31 July (WH-243); OD600 time series do exist (WW-074)."
+   },
+   {
+    "zh": "保守處理：14 筆代理建議 confirmed 的事實降為只加註記。六筆 DNPH 活性數字只見於分析報告 PDF，讀盤原始檔不在 Discord；中空纖維模組買了兩種（150 cm²、8 根與 200 cm²、11 根），哪一次運轉用哪一個沒有訊息說明，WW-160 與 WP-166 因此都維持未決。",
+    "en": "Handled conservatively: 14 facts the checkers proposed as confirmed were kept open and annotated only. Six DNPH activity numbers appear only in an analysis report PDF, with the plate-reader file absent from Discord; and two hollow-fibre modules were bought (150 cm² with 8 fibres, 200 cm² with 11 fibres) with no message saying which run used which, so WW-160 and WP-166 both stay open."
+   },
+   {
+    "zh": "Discord 完全沒有的：ELISA（M-001，兩個伺服器都沒有出現這個字）、所有攤位與論壇問卷數字、市場與成本數字、Registry 編號、殼側塗盤、Block 3 劑量與回本、地理空間數字。完整紀錄與十份分區報告：records/2026-10-14-discord-pass.md 與 records/2026-10-14-discord/。",
+    "en": "Absent from Discord altogether: ELISA (M-001; the word occurs in neither server), every booth and forum survey number, the market and cost figures, Registry accessions, the shell-side platings, Block 3 dose and payback, and the geospatial numbers. Full write-up and the ten per-area reports: records/2026-10-14-discord-pass.md and records/2026-10-14-discord/."
+   }
+  ]
  }
 ]

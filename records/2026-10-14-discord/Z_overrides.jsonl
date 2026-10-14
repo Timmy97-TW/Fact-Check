@@ -1,0 +1,27 @@
+{"id": "WW-065", "why": "superseded by 4 Jul spec; 'has to run at' overstated", "verdict": "annotate"}
+{"id": "WW-069", "why": "9 July colony PCR not in Discord", "verdict": "annotate", "add_en": "Not every part of this fact is in Discord, so it stays open. The 9 July colony PCR is the missing part.", "add_zh": "這筆事實並非每一部分都見於 Discord，因此維持未決。缺的是 7/9 的菌落 PCR。"}
+{"id": "WW-075", "why": "1667 bp and colony counts not in Discord", "verdict": "annotate", "add_en": "Not every part of this fact is in Discord, so it stays open.", "add_zh": "這筆事實並非每一部分都見於 Discord，因此維持未決。"}
+{"id": "WW-115", "why": "the two separate R2 values are not stated", "verdict": "annotate", "add_en": "Not every part of this fact is in Discord, so it stays open.", "add_zh": "這筆事實並非每一部分都見於 Discord，因此維持未決。"}
+{"id": "WW-160", "why": "0.25 MPa not stated; two modules were ordered", "verdict": "annotate", "add_en": "Not every part of this fact is in Discord, so it stays open. Chars' order record shows two modules were bought (Minilab 150 cm², 8 fibres; M+ 200 cm², 11 fibres), and no message says which one each run used.", "add_zh": "這筆事實並非每一部分都見於 Discord，因此維持未決。Chars 的訂購紀錄顯示買了兩種模組（Minilab 150 cm²、8 根；M+ 200 cm²、11 根），沒有訊息說明每次運轉用的是哪一個。"}
+{"id": "WP-166", "why": "conflicts with the 4 Jul spec (150 cm2, 8 fibres); which module ran is unknown", "verdict": "annotate", "add_en": "The 4 July hardware post gives a second module at 150 cm² and 8 fibres and says it replaces this record, so which module the page should describe is still open.", "add_zh": "7/4 的硬體規格貼文列出另一個模組（150 cm²、8 根），並註明取代本筆紀錄，因此頁面該寫哪一個模組仍未定。"}
+{"id": "WM-107", "why": "page says AlphaFold3, Discord says AlphaFold2/ColabFold", "verdict": "annotate", "add_en": "One mismatch remains: the page says AlphaFold3 for PEPR2, while Felix wrote AlphaFold2/ColabFold.", "add_zh": "仍有一處不符：頁面寫 PEPR2 用 AlphaFold3，Felix 寫的是 AlphaFold2/ColabFold。"}
+{"id": "WM-020", "why": "DNPH report PDF is an analysis write-up, not the raw plate file", "verdict": "annotate", "add_en": "The report is an analysis write-up; the plate-reader file it was built from (DNPH.xlsx) is not on Discord, so the fact stays pending until that file is seen.", "add_zh": "這份報告是分析文件；它所依據的讀盤原始檔（DNPH.xlsx）不在 Discord 上，看到原始檔之前維持待確認。"}
+{"id": "WM-021", "why": "DNPH report PDF is an analysis write-up, not the raw plate file", "verdict": "annotate", "add_en": "The report is an analysis write-up; the plate-reader file it was built from (DNPH.xlsx) is not on Discord, so the fact stays pending until that file is seen.", "add_zh": "這份報告是分析文件；它所依據的讀盤原始檔（DNPH.xlsx）不在 Discord 上，看到原始檔之前維持待確認。"}
+{"id": "WM-022", "why": "DNPH report PDF is an analysis write-up, not the raw plate file", "verdict": "annotate", "add_en": "The report is an analysis write-up; the plate-reader file it was built from (DNPH.xlsx) is not on Discord, so the fact stays pending until that file is seen.", "add_zh": "這份報告是分析文件；它所依據的讀盤原始檔（DNPH.xlsx）不在 Discord 上，看到原始檔之前維持待確認。"}
+{"id": "WM-023", "why": "DNPH report PDF is an analysis write-up, not the raw plate file", "verdict": "annotate", "add_en": "The report is an analysis write-up; the plate-reader file it was built from (DNPH.xlsx) is not on Discord, so the fact stays pending until that file is seen.", "add_zh": "這份報告是分析文件；它所依據的讀盤原始檔（DNPH.xlsx）不在 Discord 上，看到原始檔之前維持待確認。"}
+{"id": "WM-026", "why": "DNPH report PDF is an analysis write-up, not the raw plate file", "verdict": "annotate", "add_en": "The report is an analysis write-up; the plate-reader file it was built from (DNPH.xlsx) is not on Discord, so the fact stays pending until that file is seen.", "add_zh": "這份報告是分析文件；它所依據的讀盤原始檔（DNPH.xlsx）不在 Discord 上，看到原始檔之前維持待確認。"}
+{"id": "WM-035", "why": "DNPH report PDF is an analysis write-up, not the raw plate file", "verdict": "annotate", "add_en": "The report is an analysis write-up; the plate-reader file it was built from (DNPH.xlsx) is not on Discord, so the fact stays pending until that file is seen.", "add_zh": "這份報告是分析文件；它所依據的讀盤原始檔（DNPH.xlsx）不在 Discord 上，看到原始檔之前維持待確認。"}
+{"id": "WW-120", "why": "attachment opened and values re-read by the applying session", "image_checked": true}
+{"id": "WW-126", "why": "attachment opened and values re-read by the applying session", "image_checked": true}
+{"id": "WW-128", "why": "attachment opened and values re-read by the applying session", "image_checked": true}
+{"id": "WW-129", "why": "attachment opened and values re-read by the applying session", "image_checked": true}
+{"id": "WH-125", "why": "attachment opened and values re-read by the applying session", "image_checked": true}
+{"id": "WH-127", "why": "attachment opened and values re-read by the applying session", "image_checked": true}
+{"id": "WH-129", "why": "attachment opened and values re-read by the applying session", "image_checked": true}
+{"id": "WH-277", "why": "attachment opened and values re-read by the applying session", "image_checked": true}
+{"id": "WP-153", "why": "attachment opened and values re-read by the applying session", "image_checked": true}
+{"id": "WM-003", "why": "attachment opened and values re-read by the applying session", "image_checked": true}
+{"id": "WM-004", "why": "attachment opened and values re-read by the applying session", "image_checked": true}
+{"id": "PS-017", "why": "keep value", "value": "", "image_checked": true}
+{"id": "WH-045", "why": "keep value", "value": ""}
+{"id":"WP-159","why":"prototype html opened: 5 per day, 10 coins, sticker 30 coins","image_checked":true}
